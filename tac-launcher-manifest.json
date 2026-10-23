@@ -5,7 +5,7 @@
       "path": "cdn/Kindergarten.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "2401ba15c4b460a886b9cc4f679e93c3731108c517706ddb99e99b43a6aae301",
-      "afterSha256": "f34e70837b8e4ebb0cf8df4f8cef58bd068bcae6f63fbc07784af9437ea0f5bb",
+      "afterSha256": "a204c05b3a1312567b27a6105144b46453fb8d6171c88e259327eacc9cc21f7c",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -13,7 +13,7 @@
       "path": "cdn/superhot/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6bd64b2854c03e525ea418238f8a773719f63be6babf577f179a1ada752dfb9e",
-      "afterSha256": "5fda9e87e064aa164bb45a6979c9f39bf905122bd8707ddba15bb4dc86981f8b",
+      "afterSha256": "53bf9f3d34c656215a6011f0dbcaf1e8238116516db5677366012c8c6ec0247b",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -21,7 +21,7 @@
       "path": "cdn/Melon Playground.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "3f22e89ade3386a50e2407590833332957ba8e18634108bede10b3d3d19d9f3e",
-      "afterSha256": "6f66b2af3516b6f5ef631dfd15cb79d39913fc693ec6a4ed98083c74bb513789",
+      "afterSha256": "e25364944ecc097a98a5ec40b0c7d5b3bc42dce7d1e0ed2ebc50c78ea7e566d8",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -29,7 +29,7 @@
       "path": "cdn/Celeste.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "77f7bc3ec5a06f576ed6980423796f4e341a940bf4243c6d9fe78e985327e7bd",
-      "afterSha256": "ec66684e3a6ca2ec94d4bcfa644b348a2f58a9659d69d6cf6ca245aa12694956",
+      "afterSha256": "e682ca5f36433b5373fb302794e9a61732ea2c36f44d2906f0074bf1bad5d9e8",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -37,7 +37,7 @@
       "path": "cdn/slope/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "03eb7fcdbb6914d3f046ca68f074ca864dc57c6d1b8b6269ee7ec0898b954c7f",
-      "afterSha256": "6096d3432bec0a3415f2afae80d248f3a66d010904946aba9f84cb4c27b41edc",
+      "afterSha256": "86801f8429067c98fc9088a663366ab90f3cb2044f1f4125f415d760584b3741",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -45,7 +45,7 @@
       "path": "cdn/ragdoll-archers/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f6f002c8c495a78d91bb0c3bb91764ab28b6803b57e753e72e47731cbbba0511",
-      "afterSha256": "bf4004c2b9ae87523e9d936174acbb570c3c99f1fd4288861fcb144d072d32aa",
+      "afterSha256": "7aad581720d5cf4586be21850b04bdb5e8f4f0d5cc8c64aa23395176afdc14df",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -53,7 +53,7 @@
       "path": "cdn/Candy Crush.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f0b1b71099926449cb9666549cc1e7fc8fcddcb79370ad70b0b5625b04d1e738",
-      "afterSha256": "5d78e3f0840b868ce3d653141c477ee32c6b2e2669ebf71dc456356f08324051",
+      "afterSha256": "307c55191b84c5501558b678d5759498fd5b4c7b4221dfd1d2ac0bc2803b0b40",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -61,7 +61,7 @@
       "path": "cdn/bitlife/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b9dcef7100b281ec4def8ac93a41671a056f055d747b43e69a4c376c3872202d",
-      "afterSha256": "5b2fc24d78216a3f6432cca11c911543461f58a8196e4b331a7f6e654ec52873",
+      "afterSha256": "53bd11e5c7d9e57a239108de763f2e4367df6bbeeee8543ddaeaaa5a812a1d20",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -69,7 +69,7 @@
       "path": "cdn/Five Nights at Freddy's 2.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "1a0911c590774d292da5e7bfe92d2a74e25d193a64d6d7e46ffd5e9b8de3f32b",
-      "afterSha256": "69ac94e43db30bc6446a721be8736ead96bb5cde00679c1ee4f2876df1d3802f",
+      "afterSha256": "f8fd61aec59d32dfd27db887c43c700a330f217a6379424c29bb16ed25297334",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -77,7 +77,7 @@
       "path": "cdn/Google Feud.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "9cdacbfb60a174d3c39738b8aefcc6ebf3d3ae13639bc7a21d87e8efcaf3fe42",
-      "afterSha256": "a0fe6985dc402cb16321b68835e2ba62f436fe856afe67250b57937d30f0c899",
+      "afterSha256": "2abffddcaa2eeaf3632a3c67e81946b6d267ae21625b22aa3147bf9127622363",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -85,7 +85,7 @@
       "path": "cdn/boxing-random/index.inlined.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "492a62e4c7e0fa0d4818335e8513717f8873e55fe1e901d0cd2688886ef36158",
-      "afterSha256": "cccd9e6ec72979197c278421ea906b63e2baf5826e4a08376149ffcbf011fed7",
+      "afterSha256": "6f2665b8dcc60408de0da8c05cf7c2e26364ea8d6f96ffea14ff676d7d04a0b6",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -93,7 +93,7 @@
       "path": "cdn/Flappy Dunk.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "1340ae25a8b8f211066238d485a31c8a44832a3bdfc95d0eb520c7547bbe01a9",
-      "afterSha256": "39fb7c7db2b00367a0e842f6e0cb0f692b542a408934329e0a679eb04710b8c3",
+      "afterSha256": "46b8693c076130fb2bbc81e38273c4dbf3f74291e2e1387a04d2e110ed73b121",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -101,7 +101,7 @@
       "path": "cdn/Yume Nikki.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "dc975cc22e535069c189313780bebedf2ad02e6cbd3065c4581f2f1c55fd0d10",
-      "afterSha256": "652f70568afaa916eca439d7299d7b94c77496695b87201dce09f424af652ab9",
+      "afterSha256": "8d6d52f903f9be962ee71efbf25743e97cf8d866b814b006bd93636c34973291",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -109,7 +109,7 @@
       "path": "cdn/Tunnel Rush.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "9425095f50d69654330f46eb5c03ec6b8a23b6278b64607d8e8716b893fd47b5",
-      "afterSha256": "90e2a058f1783e86a34b64435ec53378fef24963feb8128fba2cd6a297ec5771",
+      "afterSha256": "f5ecdda16faeb83c3902851a8e60cc25bf72773b37934699d4467b2ed730f432",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -117,7 +117,7 @@
       "path": "cdn/Endoparasitic.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "e101f7f638cbd5084bc76b106f747ed89597d41f0729d10e06229339b792bb23",
-      "afterSha256": "4b12b3e3ebf16c85463b73dd6fa83ba3a6384ce492c0770f9a74bcdfaab15d6e",
+      "afterSha256": "9c06dfe09f4f3076787ba8b16939af75be032eb103207f631d2941e55a9862ce",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -125,7 +125,7 @@
       "path": "cdn/Fallout.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "e6bd3c4577dfdfbe0911341f691202fe01e7113627056e83db27d161a1cac720",
-      "afterSha256": "fa3eb75992ccc89997b7d27c691c4a64dcc8d9274cb1a4231d6ba23a165b20e7",
+      "afterSha256": "65b70c808777e4c4048105483cea098148b03c4643d7ebba6678db0ef763692f",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -133,7 +133,7 @@
       "path": "cdn/Deltatraveler.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "26d0380685e16621d0cbec76db399c989b687e77a499c93442ff67cbf66080c8",
-      "afterSha256": "87ec042db117ca6200ccf94daacc8fe4323f2d8dc74e132e7cb44e5e63deada4",
+      "afterSha256": "2416245dd58dedbb6e8e2f5c4ccfcd7205cb0f316207188aa0ff73d8baf458db",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -141,7 +141,7 @@
       "path": "cdn/Kindergarten 2.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b5a630cb0b07955d06852f015f4636618913f13e64f900ea9cc9df0759d0b377",
-      "afterSha256": "09e2fd26eb5db1d990dba10be6d1cd34ddc3765e40ca79d9d79d43826c329a4d",
+      "afterSha256": "f8c3aecedb5ac824b57fc34a71f30f83ddc20e49f7005687df4a1b1ada638545",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -149,7 +149,7 @@
       "path": "cdn/Basket Bros.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d411162eff3ba17b3a8440da707b633427f6722181c49d5d3c31366b04c7542e",
-      "afterSha256": "dd6fdac2e6009d94293a41f58881f452cf6ed3a777690f65a5b4de5e3d3b02ac",
+      "afterSha256": "4be7b103f50eddb6ad2eaccdfc7d9d8976d35a130e90c3f78e0de6b1662cc50b",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -157,7 +157,7 @@
       "path": "cdn/Five Nights at Freddy's 3.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "70bc9efe873decd41c5c5d1f2961699e09e7980656b7811ab4acaa45b6e37d29",
-      "afterSha256": "72705c6134a699d0cd547e32e63aaaacde8e8bdba09d84cc3c6ea4a87b38645a",
+      "afterSha256": "52701791023fa6f757663848be46ef416a8524438916a11e4c0280188b76bfb1",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -165,7 +165,7 @@
       "path": "cdn/cookie-clicker/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "03bb532577277b1f394994c8ce18a264186a6387828288e7b611cab8457e2848",
-      "afterSha256": "dc6083137a6b4ba9c3f2777f9cbd969f0c9f799e5c6d513f1d38518c4ddf3946",
+      "afterSha256": "f26309e02bd4f136fe0f6e12509ac1fb9e47255c1514c393d016687f18a4562e",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -173,7 +173,7 @@
       "path": "cdn/Five Nights at Freddy's.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "0ad67f8398bb83fba0ef2cb7882f54f766904b4db4281dbe67d67b2e6b4dfc9c",
-      "afterSha256": "ac18ecb5127b22008c5c3d92169dfbb71be53e083e54d7620c8ea179d16dcdc9",
+      "afterSha256": "0899f86462e7e8abc71a482fbec008b5d54675b464672d82f683b53ac6076a75",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -181,7 +181,7 @@
       "path": "cdn/Tattletail.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "4fc94969a13bdda0c428f6b919a14a4fade3f3d76370aac9859ae3266a661690",
-      "afterSha256": "81a21f8f5e27611f96460a8039a4c84307bba840c486a3620b25a1e959339539",
+      "afterSha256": "52290541ede57d10d4d3f675a5b5e54735690d9e9ebc983d698fd33ba25a180b",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -189,7 +189,7 @@
       "path": "cdn/Vex 3 XMAS.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "23cdd8b4aff2372943ad9763acd11a2897956aa606c4832a8cae6a1f658bd097",
-      "afterSha256": "492d66e04725b2ceea9be6d00550cdf6b44f7ae3a5ad1cc849c93a912480445d",
+      "afterSha256": "5ffa97167566df4904d9dd45914857671b303a3dbf19e348fa2de09b03e05cda",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -197,7 +197,7 @@
       "path": "cdn/Five Nights at Freddy's 4.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "351ba9f29c581fb28e597b2cb90ae4655f9bf76119d9bb837cbd33edcdf20eb9",
-      "afterSha256": "4853ec5cc8cd0e09761cad49286104ed4083f2907f5c9b725f5fbd4f3f7ab48f",
+      "afterSha256": "eb3cc9d362f3bf31774d63e4e63e6754fdca0c26d4ed84df60d9c8e776c81556",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -205,7 +205,7 @@
       "path": "cdn/Five Nights at Freddy's  Sister Location.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "dec55a68182b1415938fa68afda49fb1247a2b99d632f514527ce5a14faead8a",
-      "afterSha256": "862f02ac87dd1e584f5b8b93dc8557c29b4574a553152c1651c6a86ca179e527",
+      "afterSha256": "a0ca4cfe3394a688e6fdde03c4db111f11c8963b6acb57545f5b6824b948b2fa",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -213,7 +213,7 @@
       "path": "cdn/basketball-stars/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "098f322da0dfdfe721583628fbb9aed9f04f95fd331502990205ba27af24a276",
-      "afterSha256": "47d60a3a3175f40e7f8e83cc9a9a14389fb9fdd72701cdc00ec69f44aaf995bd",
+      "afterSha256": "afcec71dd263045f1c156c2bbcaf436fae0fd7bc6eb89af187a3784ecddc020e",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -221,7 +221,7 @@
       "path": "cdn/Class of '09.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7b79e1a44a3f3f83aea38a82beea7f479ab1617faa631365f1a5427850b43b4d",
-      "afterSha256": "89807303f1d57c0804ae7ef07d80a7d626bf54da9cb510cd26f8c1696d130fb4",
+      "afterSha256": "3583f66a227aed9854c34ca0cd2a4631df543a1f89a3aba679528646ceae6695",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -229,7 +229,7 @@
       "path": "cdn/oneshot.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "5779772a0d19d83ed6fe53f6873f6c035f9fd41b873c4ccd763515205052f2fd",
-      "afterSha256": "35eead138fbc0431183524c7c784bf2de8f9803194c42e5a1ad84e895e17e80a",
+      "afterSha256": "86fb94c9fef4b10206d2d559cbc35b60d11e2280c5818f4c68dfd3650b8317dd",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -237,7 +237,7 @@
       "path": "cdn/Granny.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "948996464e8dc29c5fed7bcba17fadebbd996a66a2012be9063e4efeb57a4f79",
-      "afterSha256": "c6a85d3f9ab90fd23336c8eada211687ae605aac0b0fd1f1d0fc08b11286b9fc",
+      "afterSha256": "6eab28497de5a9f352dd41ba4c8934ad7df56dd552d46d1b2a2e1ef5946a9b78",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -245,7 +245,7 @@
       "path": "cdn/Slope 2.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d65c3fecb53c24e454275223e80a8b566b508a758bf2128a8e47d2e3d5ae3479",
-      "afterSha256": "3e460f722a2186d86430343a3f4c1e642c184f8637f6831f6e99955341c1e1b7",
+      "afterSha256": "ce43499904d669edcfdb6203a0b8717033894e624957e01e496f24c0f72e59d8",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -253,7 +253,7 @@
       "path": "cdn/ULTRAKILL.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f18754cc1f143cca87513ef3146c789ca4c15b89bc24be80058caa57f34435ae",
-      "afterSha256": "d074a975f4c26e4e496cf9ef541ee81b1fbbe73914c6b168970a838f99c4db89",
+      "afterSha256": "0cbcc03b459e46100b0c81c39f7bb4004537e1bddffd99182ea25561ee1865de",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -261,7 +261,7 @@
       "path": "cdn/Super Mario 64.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d2dacfedc36e5eb34ec40f7bbc589de3fdc59f4cb9a572d7a331d131be77466e",
-      "afterSha256": "9e39127470980294dfc54e6cb5d22cb62b220b8092b48a7804566afc668b2cdb",
+      "afterSha256": "48b00582ed6b1cb6bb5615bbc164ed22a016aaf2788be582fc3491a4b2512fc1",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -269,7 +269,7 @@
       "path": "cdn/ragdoll-hit/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "fb64504cbd372acb53c9a6a9df5abec23da0a7ef4211df118d37183172db1e46",
-      "afterSha256": "5d24ed9f4ec19de1c6090e9e5c11f87d22bee1da223c097ac7f6f2502247e05b",
+      "afterSha256": "5f7894a5efbdfec8706b5a9ab4963483c4b06456604603495465dd988258d4a3",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -277,7 +277,7 @@
       "path": "cdn/cuphead.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "e25f1b82de06b4869d3df1e566a2d6e8ae1d8eb5b532f12cc1acab60b8fae227",
-      "afterSha256": "d080a1944a0eee70f96ada7d63db0ff88390147a0f495cae26eb9b7b91e45bbe",
+      "afterSha256": "d975e8180d838ef7e320b92caec944f73220267948a4352abc40b24f60b6afa4",
       "authoredBase": false,
       "removedRedundantShellImports": 2
     },
@@ -285,7 +285,7 @@
       "path": "cdn/That's Not My Neighbor.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "da8f9007352db1334686ed58f4e78c58ae8d8b9f48997e08b2a54a3f0752384e",
-      "afterSha256": "d6bf02b9a64b10a7bbee27cea58358071b45a24853af96f7ad5a9fbf3a070434",
+      "afterSha256": "bb6cc5d1c6cbf7649918fad8bf19b5fef1ad325e8f200e5ec2676dfed2b2782e",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -293,7 +293,7 @@
       "path": "cdn/WebFishing.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "9b4f20767168f882b0687b4ceb4c3d157d61946cb452552d93240589db584106",
-      "afterSha256": "d6aafccc99f69e6ef535af199a90cb9a9ae23a6799c248acd85a9a5b848d4240",
+      "afterSha256": "8f3c04a778fbc7b5e48d637d9bff652e9c6d5f2e371e7072888c7501cac7075b",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -301,7 +301,7 @@
       "path": "cdn/Geometry Dash Lite.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "e835d24306609e58d78eea9d08f0e07a61a78d69000acbc678da4702e4a4a413",
-      "afterSha256": "5eafc872c9bc27f5f2a2f735c2bc3f55bc061b1fb5fba00ad501a8c92ea16d3f",
+      "afterSha256": "4f8b5ec0182f4ecf77ff820778eae48d37a5d9dfef467543aa894701afd5f722",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -309,7 +309,7 @@
       "path": "cdn/Celeste PICO.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d1ba45a86208ee488efb23b72ab859ae2a2b30610f361f114fe699c5a4cea0dc",
-      "afterSha256": "ce851e408ab30a66507a9a84bbc2982f4039c34ff85222daf11189b48a63b928",
+      "afterSha256": "ec43186d3fac67d256578162b810f384449c133f23430c7cb82822eae6217ca0",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -317,7 +317,7 @@
       "path": "cdn/Happy Wheels.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b88f2a4909151652a7f80dcafe6d04f80ff023b3036b38d8d46b49b1bf132f6f",
-      "afterSha256": "c341adc6f19fedca979f088cdef560d01c09ced6aa534bd68ce065714d4b8cf5",
+      "afterSha256": "cb29058be441b652a9e44eb2ca607ef48c56c0af076662a98d3069fc72694122",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -325,7 +325,7 @@
       "path": "cdn/Gunspin.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "854ff6ed9fdfa4ada4f690dc3d22a5665444d0dbfc0dcf1f8ff52b213b027830",
-      "afterSha256": "a5c86ba5010e0c7393a447f0243131bf210899d276d579c23387f4ee5232dd2d",
+      "afterSha256": "5a255fad9801c37749d6cea6bdabf0a9cbd5c20be8a8416053cf996e3f6c654f",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -333,7 +333,7 @@
       "path": "cdn/Quake III Arena.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b5cb7eb64df436c6adfa390533bc64483ff47f100eb8007dc1a1a894484db242",
-      "afterSha256": "db2f36f98114f529b130577afb42b44c33b6c45ee7912181d8970741b4b5dccf",
+      "afterSha256": "db7feb903c167c278586b77b54e2b0e73dc66f4e40203739773dcaf32cdf758d",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -341,7 +341,7 @@
       "path": "cdn/Bottle Jump 3D.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6989700e67e82268d4d5981fe4a73e8ce3982792b3aa151fdb99bfbc5056771e",
-      "afterSha256": "aaa82376f17882ba704bf838626dc9e65d88cffa0c67adcc7e6a3298b2f480bf",
+      "afterSha256": "12fe544226e925a1e814d76e0cf6634acc91e803f7baf04b97b74a4193a9d954",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -349,7 +349,7 @@
       "path": "cdn/Buckshot Roulette.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "8af145d6d22a06b57ef84b71185289bd3273306ddbf37d0d0402a9251955e727",
-      "afterSha256": "a3f2fb2dbdfea44df1c446da16b6f2a03694f55b405e503af374c20dabbd7350",
+      "afterSha256": "7721ba07bf309f277fb4ab97db909a71a6ccc1bc94503e496d202f91fc62641c",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -357,7 +357,7 @@
       "path": "cdn/R.E.P.O.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b1b09de6631db803152f5f68ce02e51c375dab990b203ca91214aea1d3249260",
-      "afterSha256": "4ca1d8c36de90600b894b3e5b0b03a03bf637a5beeac3ce69b2ebd4f6c58e12f",
+      "afterSha256": "14806127645673eab344a760151093861c511a921b4102d96898af2810b513a9",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -365,7 +365,7 @@
       "path": "cdn/JustFall.lol.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "9212df155f2fd0b9f4aa0dfe4f0b791b916cdaaef24e2ba85eb5e17ca4a409ef",
-      "afterSha256": "f3d7e321001344499d9425ac2106219ae90c0a1d6c5c3d9a36f1aaaea970704d",
+      "afterSha256": "fcaf4567be14bcd438c81eda550a6b139834939ac1f60861eb679d90d6f6ef68",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -373,7 +373,7 @@
       "path": "cdn/Five Nights at Freddy's  Pizza Simulator.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "c7f69aed0ee7d3888f4527f7cdab8765a8cebbd4bcb7f4f6135297e70b88199a",
-      "afterSha256": "a01f0a874be2045ee781e685772b370e299d46ac4ca20e32585a4bea43a2744d",
+      "afterSha256": "b1243db0030e2ee4ed45c488856ce54ab8d68ee338a684b6bbe4f0c7bdefe2f7",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -381,7 +381,7 @@
       "path": "cdn/Sandtris.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "470883577843d232d91dbcb160566d25955279dc20a4b3f453091a2c29c2d941",
-      "afterSha256": "119080699f8b91b0744023c0c1a72934f75cb4ac3f4cbe798d3c4c53b9142aa2",
+      "afterSha256": "2827dda2369f580e50b598b100ed4f2a449341a8ea4c1012f497b645f206e936",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -389,7 +389,7 @@
       "path": "cdn/Cluster Rush.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f0301a292f4e0b9e76c01e3c12dfb988fad0b6ff849026c095732b547723a970",
-      "afterSha256": "f79ad75f245785a27cf79ac6246098c4af4babf308c6588b9bb807ebfe5e02f6",
+      "afterSha256": "9da85009341f6d603e36d9551a5e14a52e541ab607ccb93a372e5159290ee280",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -397,7 +397,7 @@
       "path": "cdn/Undertale Yellow.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6fab32161a1a3159ea77b8a10821b99e8be409a8a7a0b853d549f31cb437cc3c",
-      "afterSha256": "294cdf5a800b8d7c1d6de9f0c10a652f879f80b70af8d62af8f8b6d7a5482c48",
+      "afterSha256": "32265093b12ee43eb9a0fe218775df06fba5e2a0bc744f3968697abf64d97c1e",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -405,7 +405,7 @@
       "path": "cdn/hotline.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b816404344655225196179d9327f282e16612dbb0769f31d7c11f74586e3f4c7",
-      "afterSha256": "3bcc086bb4a12ffe3d6f167e8988bfacc6dcea35cdc0caedfdfd93268663d361",
+      "afterSha256": "3daffa33b30a61457d2f008849acda1542fb97d00b9f01b12217bb1cbe3fac3f",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -413,7 +413,7 @@
       "path": "cdn/hk.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "8cd28ff46e751df0fed260d499e1eaa98a69af59c84ffe24d028f205c1faaec7",
-      "afterSha256": "e1d64f7d8947ad1dea87d58dfc887e9f0827ec78c131c7472eed3fd92664db5c",
+      "afterSha256": "c16a4e031e6034ac7fcbc25330dac443a2dac6a89ce40d52a937e5297cc6cce5",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -421,7 +421,7 @@
       "path": "cdn/Slender & The 8 Pages.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f96280b200c03647db35ba7ab0b8cd43cbb3106f8407b0c2b9bcc4a693b37bc3",
-      "afterSha256": "5b894ef376b5266c8b43613be265b769059d8befe9fb45b4c256ed7057aef2f8",
+      "afterSha256": "4bb9c73fb078815491de10fa96fe0b3e4a70c031161e59464c774ec0eba5bd42",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -429,7 +429,7 @@
       "path": "cdn/overit.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "0a0d74665b0cbf7077cba00d659afe7c3ead8023e75b5a7f506d93a7a5ba6658",
-      "afterSha256": "077250fce0cad6d049460ba95a1f9d1b4fb00419b483f805f5c9463e3a40afbe",
+      "afterSha256": "ba1d8113cad41857ff7c779ba519681ce20eef98556f5f1a0fdc96eba5836268",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -437,7 +437,7 @@
       "path": "cdn/minecraft.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f9d8132cb2fc386be3da25e05aad8c4c570dfc598e0a47179697fb2449bf077b",
-      "afterSha256": "168ef482fd723200af8ce2ae7d3a3f5a6c23fca92fc899a571ade7d9f380b8e4",
+      "afterSha256": "c0456a3941c9604f5341b16267ac3eb6936a3d1e63abbda040e81d57843dbfd8",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -445,7 +445,7 @@
       "path": "cdn/Pizza Tower.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "71c32148e6b78ea44022b20ad8bcd2ff570743d8809b96dac87b424b6953b5e6",
-      "afterSha256": "6dc8a6a9b895e3eb01abcc99578af4328f5a2f08c35030304fdd7fb63deb8fcc",
+      "afterSha256": "1b31dac28bcc2173ff6e85e3000a550d40f5884896568e61b117659873ee0fab",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -453,7 +453,7 @@
       "path": "cdn/Oshi Oshi Punch!.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "2df3a9a298fd3eaa5014190220b9b37d3a6ed5c4da79b6df791cb07a9b622cb4",
-      "afterSha256": "1e5bea8843bdd575ed82989f7b3c01ac3312e175eea9a436775a071413d078ac",
+      "afterSha256": "36d3c1422b233498c54d32d0bb31927d016aca67e2dda79342ed19d12faa8ae1",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -461,7 +461,7 @@
       "path": "cdn/Angry Birds Chrome.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "fda88340a2d416011ffeb0106a3aeb219c50099b776dfffbc456624c0624c5f7",
-      "afterSha256": "321ed74a0fa69b7e51d78e91c49739548f47d9a44a6b86d9c9caded5abac24e2",
+      "afterSha256": "cdc3fb88ea57e857444e65eaf4555501e0ad000572095c407539d4eaf7fb9fb5",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -469,7 +469,7 @@
       "path": "cdn/The Man In The Window.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "da1b0813db56af1e8aa05da36f5e66667c7e358605c802d478aea71e18dc69c6",
-      "afterSha256": "24578eddc3c923ad14f200eb2f1eb4d5928f7a6290d6cd8b918dcd2840a4058b",
+      "afterSha256": "c05d1260ab0e5268ac586e5313fef7ac2f9edd145c5d712f481a43d4edf8b1f4",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -477,7 +477,7 @@
       "path": "cdn/Five Nights at Freddy's Ultimate Custom Night.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b26e88971ca4b2ea0ba0caf2db58e713175afbfad3726c737ff7a84f23402d50",
-      "afterSha256": "22cc54b778b03a5342cb53246d1a0394d0564451fe9ac946105f6887c8a7114c",
+      "afterSha256": "5ca826e13f58d559d8ac27ffba5783b224b0a9582623ef45be06b48dadd13f3a",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -485,7 +485,7 @@
       "path": "cdn/balatropico.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d27f85f7295d4e5fd8eb4e9e4e21cf51825845a10ecdac5778e4a5987452812d",
-      "afterSha256": "b71773812fb1272c87c82f4d40513a4e9045f6667556a67fdf7c49b0eb034691",
+      "afterSha256": "f048ad204f5e8e06c14270106b93efe7d90b72791f8b4f2ec58c51780a50c828",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -493,7 +493,7 @@
       "path": "cdn/Schoolboy Runaway.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "8e14f956851ca9cc1c2e85b84aebd007891dd788924299a4f51ba1c1853b1c9e",
-      "afterSha256": "ab798a426f23dc8d6b687b8a54b83d7c339f655cb648538233849d33b20c3be4",
+      "afterSha256": "0318a47723852861c04440815e37c141fad33cc8725d596c96e577eae32a15b4",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -501,7 +501,7 @@
       "path": "cdn/OMORI.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f049c69cfffc6605956e79722c4af27a9d152baae381dc1d7aaf973b86a19f01",
-      "afterSha256": "0510135b31ef139af408c888a88ac0d11c3bd300e6d6421cd584ac274ffae1bf",
+      "afterSha256": "254010f52bbcd9505015030273c83e77741fa02bdc358d3d0f4f4152e5af4060",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -509,7 +509,7 @@
       "path": "cdn/retro-bowl-v4/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b7ea6d63b106a3072b567b9d049f9a86ee213457ded88662b9d0f03e5e28ad03",
-      "afterSha256": "2ee5a0de743bf3e9c1b42db58aa2bef7ac37f50d66f0a1e973bbe15d25b94949",
+      "afterSha256": "b1f78fac91264f168e94a847939095d5b02a64eb98e7663d6a48f179242437ee",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -517,7 +517,7 @@
       "path": "cdn/People Playground.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "05e8965a98d2d01696bd3895e2b59763c216a26d421929c606bbbc3b3c5abb3d",
-      "afterSha256": "5f47f2c92c4f5288f822577d4f7e8432a1cb1f96dfaf7bf9c9eae69df1d2a46a",
+      "afterSha256": "2e8136fd8cdfd610486559081f15331f4882b1cd6fd5d89507f810b57156f407",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -525,7 +525,7 @@
       "path": "cdn/Granny 3.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "2143aedd38f08fb0dcca7a3ea30bf403a04bbec0dc3618a4cc6b15ecbacded37",
-      "afterSha256": "e039f04582c0f80f87b4f4666f82c6e70fe82f1dff0bbe823377ec783cee2c47",
+      "afterSha256": "59a49a5f78131c5a5b842b0d85773655ef456d2fee0230bce72120e61450079a",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -533,7 +533,7 @@
       "path": "cdn/Bad Time Simulator.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "824b3b4f568b1c052de117753ef382c69cd37bb5d1e8b4c0f8b50f0c377b4dab",
-      "afterSha256": "d138d9d517af3536b8306709dc9f66be4111f37bbefae3565d7a6caf58fba27b",
+      "afterSha256": "fe496eec3c0f10537e10dd9550aad3529258135a20667f97a1173d11f3430951",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -541,7 +541,7 @@
       "path": "cdn/crazy-cattle-3d/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7c5b1dec5bc404a790d8bc05fc09c625333e0ffeb6594b3ccf11553162d066d9",
-      "afterSha256": "6a73d9ecb9cba383cee8c26f6f142e92712e33ed66d4794552de1c333ad97c81",
+      "afterSha256": "9d2b7709a37a43e1cb6433129b962c7230f4207b9793f3c7882e23032b3e7bcd",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -549,7 +549,7 @@
       "path": "cdn/Time Shooter 1.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "a1eabf5d446490a698ec061769e7e16538d982ffd6b54eeeef3312c33a8447f1",
-      "afterSha256": "6256f83337fb7ac60d0a3d86d937960ff287d4d0cf741f74abd3c456500b2a14",
+      "afterSha256": "4b072baecda6a236117c3c86169aa2eaca0aaae5820598d70915366b90619081",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -557,7 +557,7 @@
       "path": "cdn/Karlson.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "3de21aa21ca88cf88926e5d51f79d8ba5956fa8fd87a8bbae6ac550906ae7e6f",
-      "afterSha256": "f47d479175a0d9296e4dc6d962b281e5d8aacbfee2794c6258650affee19863c",
+      "afterSha256": "17542cdbdf7ff5e0a1468db4e46e1ce7e5d878634cd51b9254e45e7b3812d78f",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -565,7 +565,7 @@
       "path": "cdn/Jetpack Joyride.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "98ea628b341a7a7607ed3686bbe90a6bab04aa85b8c41a3134d1ba682dab5f01",
-      "afterSha256": "1e9ed0fa558750b5e7802b8c8884f1fd4b17f051c19882181175b9da5455fc10",
+      "afterSha256": "93b3df86054a78ed096fee51a6cc770b53c9216c9566132ad07c793add38e186",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -573,7 +573,7 @@
       "path": "cdn/crossy-road/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7bdc6b09ce5e6a1b5ac948892431db36c53adc815ff7a9c56c5782afd95be388",
-      "afterSha256": "2bfa06fe3e141c27e288faa97e5805f5f9b95fa0abac3d2af87b4bafb3ff8c23",
+      "afterSha256": "a96161e144a5e164e89d43fa72e84c092bc5cd3e0ce92742f6ea007d85e4789b",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -581,7 +581,7 @@
       "path": "cdn/idle-breakout/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "98892b2fcbcaaa6c594a17c49635c4ee05ef61e7e4bf9c4bf8d9fcd79f4f5db2",
-      "afterSha256": "a878269c750b5e81aa1097e194520561b8093fdcc342f5f8e947f4dd83c44c80",
+      "afterSha256": "8852e32bc0e1013018efde335ba364a97e18004bbd48536e1a975193eea16c29",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -589,7 +589,7 @@
       "path": "cdn/Jelly Mario.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "70dcbe7fc4b6d2a489ea9ced5de601dfd8374f147ac58d78a374483e16dce8ac",
-      "afterSha256": "176024673cce277bf7820795929b638b428d2dc10fa1bd786e0659d9179935d4",
+      "afterSha256": "cb9cb06cae72861f621ca217d12df1f1f702685337e508d201537867b2ac8787",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -597,7 +597,7 @@
       "path": "cdn/Idle Dice.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "be6a5ac63a82fbce71e4bf3ed59c43fc60a5b2faf541f2a45bfbc2ec7601ff9d",
-      "afterSha256": "ba8ed2c037e275da61d3cfd871ecf089062b43072764086f1d197c0ef0956127",
+      "afterSha256": "de4c28369950a46c4cb2784d24effe005282e4387532e6d5ab9fd27fdd7323cb",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -605,7 +605,7 @@
       "path": "cdn/Swordfight!!.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "c94cde8ae4caefadb7bc88ea15e8bee58be2cdf51b1b12b90f21df49e4cae125",
-      "afterSha256": "cc43ee8bd0a1c49e6bff07ac90a596805c8e3570b6f065faf74260fc12aca92d",
+      "afterSha256": "cd57cf3a503e96997c9d12473d6869775cef7e75bc200969d5836dfb520fdb00",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -613,7 +613,7 @@
       "path": "cdn/Sonic Mania.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "4fa3124a77efe135aed06bd7365a8febf8e2dc7975a0954813b00bc9088275f8",
-      "afterSha256": "59fe3c4e8f87e936ee88db0604f353ec49016c0b9aa0c68ade0d7c21b93f99a0",
+      "afterSha256": "564047bedbb0c187d7b0baf04d49ef9649bf6fb505ace998292364a3cfea4ad1",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -621,7 +621,7 @@
       "path": "cdn/Subway Surfers.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "bf15add48c16441c71ccad17f8d12e4467199cf274282578d1297d821df462a9",
-      "afterSha256": "5ea099a865b99ff68c92b17d6cc86be4d30546c7306ed418df58c834efdf5d4a",
+      "afterSha256": "b4f1d22f03309aa14be064607282516a604aec15a823d319e27aba9cb606ee18",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -629,7 +629,7 @@
       "path": "cdn/Granny 2.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "ffd1ba19fe46c76c3672148b32e835c6f83cdcf980dc59f5bc90129cd63ff021",
-      "afterSha256": "3caddf66e6b3c2f3c45bd53018dfaad8cdac115583181970031e4a5b4d29cbcc",
+      "afterSha256": "d9ba7997e5bb8b1c8f9fee1d210b32ac70a6bddca643d52d0761f05c6cc4a034",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -637,7 +637,7 @@
       "path": "cdn/PTS.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f62d33104c9d5d60e1ff1fbdf0d06d10ec8bdee0cab0a26af8ecb334ad4ac391",
-      "afterSha256": "eb77b7cf74ee310d1d83505bc6f5c7bac3767da4051bb52f0b134f0274e36efe",
+      "afterSha256": "578e76d7541b6e32b91c4c17103900fd7c91f7d0cd79d3b83b4a168015ef5a3c",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -645,7 +645,7 @@
       "path": "cdn/balatro-loader.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6641107fa0ab0ac6fe6b4767a5b9a9298f08a1639bb352092f2c7ce0a22e378d",
-      "afterSha256": "001ff28a7e2f2e8b944c511f2c1af887325c5708ed2e3fb808d7abf907b7d01e",
+      "afterSha256": "af979a64bd043ae18564b3b3aa30a4b7324739cafe6ec71ccd43b16ab6341cc8",
       "authoredBase": true,
       "removedRedundantShellImports": 0
     },
@@ -653,7 +653,7 @@
       "path": "cdn/2.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b29c4c19c1037d3ba8263320ba3c88544a0b4e6e8c1f2e1646e642326f41390c",
-      "afterSha256": "4d8d3cab5d5b5cce02869038654bc4503f89df93ddd56d566614e915fb401fa3",
+      "afterSha256": "143c385b462c692cd4b8b8cbbdeeb3e666652deaa6fb73301235c06ea27d0ee8",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -661,7 +661,7 @@
       "path": "cdn/8.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "2b0cd41b030d244d8efdec637d9b2e1e9c977643095fde250d5203b02a1aaa89",
-      "afterSha256": "784a9a79ef9f6db659f5ac8c81988dad289e6614cc54533b71db54b0feae01dd",
+      "afterSha256": "2c69b5ea0e5f5ca6d1a8244193660bffb4ec094f5ec1013888a271619d46adde",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -669,7 +669,7 @@
       "path": "cdn/10.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "31533fddb553eb55dd5fdd72451e717c958d06ba6de3bf98b4119bd25190086c",
-      "afterSha256": "f4d10ebb454a2088124abb96eac7083a821b8f297bee00b8f22c005e3489d6ab",
+      "afterSha256": "ddd3bfe3ee34e52b90cb2f4b8800568859e12794ff216b2e229a7f8be639acb2",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -677,7 +677,7 @@
       "path": "cdn/10-minutes-till-dawn/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "771710f7a5fdfa99b68beed03d4a0b54f86f35434cc3d8d833754d84ad44801d",
-      "afterSha256": "56be5e7a416e1c9a9034f406c96d6a4eab3384e72fba169818432eaa5c190152",
+      "afterSha256": "68f3264746a8eea76100b1ae8fa20da073f80f7a6bc997dc79df1dffb46d9230",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -685,7 +685,7 @@
       "path": "cdn/18.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "92ae8d7deafd6588072c203fda4c142cd8db6e12871147686e80fb344120c0bc",
-      "afterSha256": "ad4e716a484199a650116e080951afe6002fa243ffb3afd40bc264f36622d455",
+      "afterSha256": "51cbf0eb5cba10cbe377a7a358f7011766afc2c822b46f8505c5a8b4e69b0f76",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -693,7 +693,7 @@
       "path": "cdn/19.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "fd38c6824a65e4e6dc872796413e0b8cba45c17f6cff09e589e49a568e797326",
-      "afterSha256": "79665b82be610fdb16b4facc4242e9a611db273fff7c0a2bc9ed3a96293275a8",
+      "afterSha256": "89cadd74a141462da95d3f09c95327b9147db98e41f5a5fef69ee4032632acc1",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -701,7 +701,7 @@
       "path": "cdn/26.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "117e25230e758cc05be7146b2cd3b0525ff6cfe6adb52f103920d500abddd8ff",
-      "afterSha256": "e376419bcee89462ee3b66f8198466056570034a1176f24a6ba304f357e386bd",
+      "afterSha256": "2e500a61058f08a95887624725583c721ccba6dd3ed6ae5dda9b14a4b5dff524",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -709,7 +709,7 @@
       "path": "cdn/28.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "967b68fd832161987c640d0311de8494c2cdfb19e7985f749080d5f136c8a335",
-      "afterSha256": "c5f0f60598a4efae378701f0899aa86042ad61d2c05ac8c9a9fbcc00b673145f",
+      "afterSha256": "f575001054141a21684968af374b94ef70bfe42f34fad1688cb0bb26fa8c1a49",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -717,7 +717,7 @@
       "path": "cdn/31.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "72ea8ecb2a358cabab54b5fd598d1594e0a68ad06cbadb1760c79926d567ea83",
-      "afterSha256": "30d8b4022be8f996ccee9dbf866a0b6023f214e299b34aa924f7d04395e5532b",
+      "afterSha256": "fa6097c926c5b4ead5f94482a095fdcea22fba9dbec42e2b1ac5114eae02915e",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -725,7 +725,7 @@
       "path": "cdn/32.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "a289954f586f34d959767efaed0f084dc653b8c5d0e37ef19a21cd0c716abb09",
-      "afterSha256": "ab7204ee4cc5ccf82a44a4ba915b3e7863f0237a926b8ecd72a68eb16f9d954c",
+      "afterSha256": "2af3c73728ff3179945776432331a7a288a3bed945f0c190efafaef585e7f8a8",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -733,7 +733,7 @@
       "path": "cdn/33.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "4ffc3f426296dd0cf1de0fc9a67f9b2dde8f425632a9a09564579ffd02f3ec4a",
-      "afterSha256": "3d02afaa85c24f9d64528849da20ba0f740556f5f181738ac59941f2102570eb",
+      "afterSha256": "ef077f8f20fa22a0433f6cfb281eef23a5ee78526e6293c63135d0b2939dd95e",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -741,7 +741,7 @@
       "path": "cdn/35.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "8b57d94a445d16772d9e26cdafa509753b3ae833f407b9f57fa5d4c4dea840d1",
-      "afterSha256": "5b6d5e6e23ee4dba4a9b9a5eb50f5338ef59c8944903319470910c0b4e814851",
+      "afterSha256": "820318f0f9c0b8b9e980aed2111434a267e22b3bc3868f204469c09177b13abe",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -749,7 +749,7 @@
       "path": "cdn/orgsim.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f63d4bf1abdbf98e5ff6efacf5642f99ee23e670054ae16fbcc5481f41128d22",
-      "afterSha256": "013962402de576112ece14afc0fa19a92bc5264e1e80110669ac523405a5755f",
+      "afterSha256": "b90fcf61b1e7a1c955277c730f45e6a0bdd877e7b5d75132a19ae914d8fc3b99",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -757,7 +757,7 @@
       "path": "cdn/74.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "ab70ae3acb3ed520f54223dfc0688d6a278db1ca8e6651392e24f217bc0ad71d",
-      "afterSha256": "3e32cae9f1c040fa4cad240bcb1ffff18863b6ca95f41a836adaf3e46b46d729",
+      "afterSha256": "c01ad5cc2844477c58143e83b625edbe66db25bf697e44db7b6d190f3e38a4dd",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -765,7 +765,7 @@
       "path": "cdn/Jelly Restaurant.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "ba03864f656ee443c4b962727c17d6185f900eed3bdda138e48061900e52d88a",
-      "afterSha256": "b7e9a8742ab3cce986cbafcaccb5dc2e828177d4a1726d1e52c3c48cb3f66eba",
+      "afterSha256": "532e4ce2cc3fd2bc898b19b45c8baaeb2be082f061cc1843b16666f72b6b25bd",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -773,7 +773,7 @@
       "path": "cdn/halflife.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "bec625e20ca6c38cbf383b81fc6df29e301255263f022888ebcf8c7809e5e528",
-      "afterSha256": "25ae82c046ed146acbc27b030cd7b8f7e6e392dbdc0a8c92d79377f6e0f1f3e1",
+      "afterSha256": "66e4a8e5afa59aea379e1bbabb02d21cefaeeef2ac4b7c831ae65cef09302b39",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -781,7 +781,7 @@
       "path": "cdn/Retro Bowl College.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "2473f19192491498f61eb6d57a244f1911e18f7766608cce62f4ee760e597c66",
-      "afterSha256": "3f8993af5ee4fe1849eef64c827de16ef524f475decc6bf21d1389ddd300889c",
+      "afterSha256": "7291f0aa35c63d45f3b9dc8d238af4f094c31c006658d45e74c8bd54d745837f",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -789,7 +789,7 @@
       "path": "cdn/366.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "2c84f96d0dff0228c56a1f7ed1804c907b2a477ff727e8cf4fd7c48b6dba96be",
-      "afterSha256": "7acad535c95be866c3c308dc051a0235280785d01b6f69d2ff4ed00207dd2034",
+      "afterSha256": "30449ec5c615f060be79177c95440d9e828aa0d61df63bfaaea147641e9250b0",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -797,7 +797,7 @@
       "path": "cdn/365.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f94c55265e8ce175729821dba7894dd5fc549c17b8dd0ad19ad8ab18447e8c29",
-      "afterSha256": "09ea88b9414ea86d8a3ef244056fe35e63b8019adad05718d218f66829512f7e",
+      "afterSha256": "2261eec02bc6386726dc9abec36e26ae1e59696beec1d5599c945204177dc7b7",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -805,7 +805,7 @@
       "path": "cdn/363.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "380cb6e56074bcae61991eea907c87dfe97927d2dd4bdc4e3c9d45d8e89de1b3",
-      "afterSha256": "b6df38edf1114492baa4d63985fd901a9db559e883be126a29d993a62541d2c5",
+      "afterSha256": "7736b418557b356d026e074693ddb7697b9402b1569e0b7ec3bae100cda7cd93",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -813,7 +813,7 @@
       "path": "cdn/362.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "84106479b5d89e508f55c4a5d9c43011e75f4011704e82ebe3b53b7d4eba0679",
-      "afterSha256": "6cdfd5cb13776dc8abb60f84f4c2a069add638eda1ca866cdfddca305919bc96",
+      "afterSha256": "da87ccb43e115c85c82fcc7be8a5232457de0f4c7e689f02e569aa6ae63cb72d",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -821,7 +821,7 @@
       "path": "cdn/361.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7d0ea6f01b595263a3d9a776494faf9c8e65fcde0b1872dc42de55028fee2aa0",
-      "afterSha256": "48c536ca9eebc22fc3bf03273af25ff8ccc8448300a320b32b2bd1535bed04eb",
+      "afterSha256": "9fb6f4a9352ad32e23f33a377a966e146c6c39c343064030ce99b612bd9d2fe4",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -829,7 +829,7 @@
       "path": "cdn/360.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "14a30a210773f49038bbab6991f0deea48c9b76e4d8e76bc6a847f60dfbdebdf",
-      "afterSha256": "bcf0139e37168fe68ff2a48ad60d8089e705b59797d40ca9dd8f5df6b3cc804d",
+      "afterSha256": "2968d4f6fdd69dfc5939e39e7502512350a757735ea9a6e3431bde54cd51a35e",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -837,7 +837,7 @@
       "path": "cdn/359.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "777efeabb43205e83d7e092b8cea2e250ed6fcb9fcaf98a6924106ba5b561cba",
-      "afterSha256": "9aedee99e0eab701ee01c08576447f83c610e586c2f5bdf5e426430b2d0dfc35",
+      "afterSha256": "bab5e706f145c8499ed051303b140cea560e1070104bfb876bd3f3674770f58f",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -845,7 +845,7 @@
       "path": "cdn/358.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "c1b18ef1c73fa8d51ce18640637ef8f4eb5818297b6d9031ba51f6bc96a15ac4",
-      "afterSha256": "08d1deffd2ac372b987ef652bd5905968cefb1a11b73ad5626413724408b6f3b",
+      "afterSha256": "225b018d8052ea5a16b29ce31398150c5259d62133d0559d1d5ed4c72c9a1f73",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -853,7 +853,7 @@
       "path": "cdn/357.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "1fae79d06bc05f94748e724990fa8f3636da2c2f8ffab20b4e11a72d4e09c7a3",
-      "afterSha256": "069db85e1852b6b05a85fc9ff20350946536ce6ca8875aaea064d771cd50a266",
+      "afterSha256": "adb0982c5873fbaea6b8fef7bddf5a79ee2df9293c4b2f64de79e0f8091d104e",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -861,7 +861,7 @@
       "path": "cdn/356.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "89f7950634a0f1e3ea7f815dbf1ce2ebd6fcb220e8834306da0c319e2a8ce246",
-      "afterSha256": "c9c67fa87012594a53409b5e400bfb8cb02071f69ad47e81277b6a84a59a2738",
+      "afterSha256": "53f7b6da55a364b5b2e9eed77af5d0ac5eca1e347ab20a66a12ac8971f5cc1ad",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -869,7 +869,7 @@
       "path": "cdn/volley-random/index.inlined.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "80cc7674cf500021cdf6ed42639acb5197a1e4025ad703de50881c5545708da5",
-      "afterSha256": "89571c6ef25c00c6b3d763bdbcbed6c359471886cc7c3e8e2be9dcad2070d5a2",
+      "afterSha256": "9a3d7234bcc9639488ade346098443f8e08a3da912db33642ca6eb2591089916",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -877,7 +877,7 @@
       "path": "cdn/basket-random/index.inlined.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "ba571f3a92fb14f1b2e19353e5a59a6cd857bfc603d733bcefe07367d898ac7e",
-      "afterSha256": "8db78ee9d07341ec01bf6552074e39f77018c27f1cf15cdb100c27f7f064f671",
+      "afterSha256": "97da33984534f2f74099c96ccfd1cf1e0f6bb27cf55b036bc6033bd1accc541f",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -885,7 +885,7 @@
       "path": "cdn/soccer-random/index.inlined.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "a8dbdf9b8f7b6346ee4676946cb6d76944f9910a64910d209c0bc494b1934d8b",
-      "afterSha256": "7ed2ca5dbd69e56d14dcde4f4aa0a26669415038c9a60503cc2ea43c22b8f1e9",
+      "afterSha256": "ba51c52e8f0fa9d489e9816b7b4b729fa518ce46fca850134875c9d5a038f050",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -893,7 +893,7 @@
       "path": "cdn/351.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "e3640c883e650e72c070a83bd64880cc6d2fc501b211318d3928d12fb655b405",
-      "afterSha256": "f3775601c202d01eb2f111a87a79bb75169b527efce96a87f6dffc353747336c",
+      "afterSha256": "75ccf6132af34b6fe1ddfb0bf5bdcd6c7a02d0a31377516b4620684f07c64e27",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -901,7 +901,7 @@
       "path": "cdn/350.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "119d8f375a4718ba366d9c40bb0abac32232bef830eeb7f0cc0172a1f3fed525",
-      "afterSha256": "977e5369582b0e2fc2515975d4f79796f2fe469c345db763bde85d0539ef1e1f",
+      "afterSha256": "30e55688b6eb91f72a07f75b7ee5b579650b49363016b77be00115be66a33c66",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -909,7 +909,7 @@
       "path": "cdn/348.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "c61f5a40a628d33b89c561cd3c3265c67a9de2d02c83363e95cc51f8263d5517",
-      "afterSha256": "af3b711096cf93741528d6a247a762d232036d3ce9cb882faaf696f348c53e6e",
+      "afterSha256": "b8662ccc968af8cd739ad364462ff927c3efbaf7531aaa450ed5cae44fdb59f8",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -917,7 +917,7 @@
       "path": "cdn/342.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b6b06b69ee0983454d2c9cf0eabc640abaec705c2ec5bfd4e1a89a6d737475ba",
-      "afterSha256": "8a347a92dc172ecf303bcd0ed5954d1cf73f4a6b5c964ee73873e3b5cd5f5c9d",
+      "afterSha256": "f3328af8c4ab6f917ff4c4e719f0e7ce2deeba749fcecc994a4e766626244eb0",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -925,7 +925,7 @@
       "path": "cdn/343.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "be52488d0bce3d58ae6cf6aff85d471e73c4b3b1984c5c70775cdf03e32e45e1",
-      "afterSha256": "df792a5f8bdb1d1650bc1c6269a1a4214889bcde7bf3e439bc28caa5d5e42956",
+      "afterSha256": "75d94a87b9c7b4493abc9f2b2ef0cd42bc437f861d69e62d6490726e662d80fe",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -933,7 +933,7 @@
       "path": "cdn/344.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7b990a191427f7009f819135026bcee7ada81988cf49eba824432a9a6237d395",
-      "afterSha256": "991f5ba5304db64785fcfed087b383918bfe1a061267ac06de90adf33529ed45",
+      "afterSha256": "89c0fe1c6558ef966b94902e4897153963615e518f3ad33acc0d72c2dec09209",
       "authoredBase": false,
       "removedRedundantShellImports": 10
     },
@@ -941,7 +941,7 @@
       "path": "cdn/345.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "88ac095c4cc2c05ed8bb35e13be618dfbe4636330f917982c9321463ec88d3fe",
-      "afterSha256": "de90094882b2091259d0579f44e13667fa8fe04c5b800fa905111460c7bf2824",
+      "afterSha256": "646ed99fc28671c7ed42aff5e1545c3f0659ec45c5fa4728bbc61dbed3b31ad1",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -949,7 +949,7 @@
       "path": "cdn/346.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "67c732c572ab43e00da749ac12d66480567515744da4828c17430d49be26685d",
-      "afterSha256": "a4b65556bcfa6787b6bcb8c4011ee8d2d99abd0838d9367979d7253aff022b94",
+      "afterSha256": "59f172351d852c300cd1fe7517dd2eae27bb2c86ee0867f0c83734f16463c14c",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -957,7 +957,7 @@
       "path": "cdn/347.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "48fa6d8d9c4f117996b396b14987c777044556ae1a83a352466b3296d30842bf",
-      "afterSha256": "f5a357c8bd582d6a7a5e043ec94aefa5d07efd98d97bafcf14af450da08959bc",
+      "afterSha256": "0eb2a374cf04e370be9372e38372c61ea674f23357d5948dcd868bd9595b9f3b",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -965,7 +965,7 @@
       "path": "cdn/341.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "fc1b88df9c1714dc56ae29ecf3fa0a43a67ce1bf359693898c4a3d068c393335",
-      "afterSha256": "25320d8178ee9cddce265153954af30629d918269273daf60dda82deae8d9fc6",
+      "afterSha256": "3491854ca026ccc42533dda5be7eb5d59332661a4510210ad4d06c3a0dcc1f7c",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -973,7 +973,7 @@
       "path": "cdn/340.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "c64e6d9ba3f6f1c3adad5c5f0745ce925000683efbfd947dd555796541561d32",
-      "afterSha256": "23d7ffaae3095e1ee3efeba23fc8f8d40b65ee2e933d2a8e5a98711aadd8be6b",
+      "afterSha256": "6a2a9864bf49b425c83883c98aca29b2f2e65fc51764f777249e755918ce9c52",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -981,7 +981,7 @@
       "path": "cdn/339.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "168b9e6add96b483f2a157ca1a60f203e8b7ecc8b2bb9702fc9228b1d3827f1b",
-      "afterSha256": "b3a4a1aee797caf3eec6fe1a20cc74fe481a93628e61ede10111e22c0fe82578",
+      "afterSha256": "b3701258fe6a609d844319821dfd1af01086b344d3571df564702528b7e2b207",
       "authoredBase": false,
       "removedRedundantShellImports": 10
     },
@@ -989,7 +989,7 @@
       "path": "cdn/336.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d9e5f9b500fd64c95f1beedeb6104845e7557cae13d26c0c41c5e7d680a7048f",
-      "afterSha256": "bdba8afd28dc752c8ab176c4957cd5dc2d1185722a05a4bfb8dc24659c35726a",
+      "afterSha256": "20930b2a7666f88fc08c8bc651193fae10e09e973b808932ea59dd011af85224",
       "authoredBase": false,
       "removedRedundantShellImports": 11
     },
@@ -997,7 +997,7 @@
       "path": "cdn/338.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "512bac00f17c35225088f3fec80b1eab4105352dfcea97ef431ce7007bbab1ce",
-      "afterSha256": "87bcca106ca62fef0ca23c4514de80e49c9f60de32fd3979ab7cfa508977cdaa",
+      "afterSha256": "44b88a2327a67338b3bdd60878d21f7aaf74f0b29eedc4fe1d95601732f2fedc",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1005,7 +1005,7 @@
       "path": "cdn/306.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "aed4564db894d97f99f14be7d05fcbf4e7032337e01a747a03762f8a54b747dc",
-      "afterSha256": "86d10ae2f7b493e0a9eb0033963d5de614531bc9285b0d6a97cd00670503d1ce",
+      "afterSha256": "625b3a00bc1e35adec955e2e90ace1c02da51ba2b39ea02169a0be021b03b801",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1013,7 +1013,7 @@
       "path": "cdn/305.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6f1b9473c64f959099eacd1c962e5a4726bc3acbda4815ae084cfd3aa6cdf4be",
-      "afterSha256": "7fefdc6e4cfa815d9f101b3eb526712da6e4bac8a67f090003e45e6c1ef83897",
+      "afterSha256": "5943fc3e0739455a05aa4310a7333e8735eff2f9c1d2a408961bf4f0432d24cd",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1021,7 +1021,7 @@
       "path": "cdn/298.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b66570c9af6ae381878d605bf963e88e065babd0c4953f125df70aecd14f07a0",
-      "afterSha256": "4973a0d714365afdb0237dd6e6d0bb5d59aa6ffadf122b81a86acb108b899f2c",
+      "afterSha256": "fd942f435900ba7a49b7e7839ba9b31cbbddf61073a2c58bc810c5c2a00cbccd",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1029,7 +1029,7 @@
       "path": "cdn/311.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "194ff106e8c97ef12e61c5f1350dac624417c6a1a2166b75072d5b8557450ab4",
-      "afterSha256": "93bd230d3cff6675d07f6c776d6ecb7372d018fa9a1dca129a6ec9e4ea499ccf",
+      "afterSha256": "9ac113698b6de4bf8f0ca0f0c8343f79ed93be9569deb79c7c32ca59adada27b",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1037,7 +1037,7 @@
       "path": "cdn/310.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "ccd845163980064bdacda9d123d084c9f07209578a0ca143b8136f2801b083e3",
-      "afterSha256": "42f27ad5f5ab49c6104598419d89630d8cd7623380d7ebb66f30460e2caaf8ad",
+      "afterSha256": "e1d41a91837e1db0315784ccd2f308cb1af8d7c2c487058a38657f468ac5a9c5",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1045,7 +1045,7 @@
       "path": "cdn/308.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "43fe4ca9566cbe59ce3a83cfda3cb970c286ec752bb61490eeebe1e80fdc3685",
-      "afterSha256": "f90d6f78bdd1b6e2755a8d095331e519ebdee71182edcaf7bb24f5d20114cbe8",
+      "afterSha256": "1f3d157632ba9301cd90c801c0457c564b6c6129dfe831639b375284f69b5c84",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1053,7 +1053,7 @@
       "path": "cdn/312.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "650e15ef778f607e2fc4f284a209a4214d7133b0aec1ebb2e97e0ce5871ff6c6",
-      "afterSha256": "810462ce3164fba60d896d438fd8ef442fef9dcd32d92c32b81898c152f0353d",
+      "afterSha256": "51ca33dfde047714e156f1412f726120fd03ad55cf89b12226a0b851b4a8bc7b",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1061,7 +1061,7 @@
       "path": "cdn/303.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "94c18422b1733ea0a88eeca3226f391970febc34d632636c47984405f36cf0b6",
-      "afterSha256": "c1ec386908dcfbf96cf5221d1f5a91be118af945fbc7a577997fcfab9825a788",
+      "afterSha256": "b5329e81595718ad557572550fa7ba76186297a2bcb21160f7e0111de8b43737",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1069,7 +1069,7 @@
       "path": "cdn/time-shooter-2/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7920c13dc45937ef457217e9ac2d82a55aa1da63de9713cda710a3a671ea2993",
-      "afterSha256": "3366aaf97c4abcc80fb4347cb18447788b7871e513b2689daf3e5a9280138cbe",
+      "afterSha256": "e2d0ea449fa928c9acb4a7ef64c905149d18c1e0b39e0e48a193b6ef9c19875a",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -1077,7 +1077,7 @@
       "path": "cdn/301.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "fdfc9e3451fdf526d15cf1b8382a1893c9f3007bc0d78ecf003b16bb03bae583",
-      "afterSha256": "19dbe55e174f6f01e3a86b96e60bcd9290205f832ecda637df74c81898c1bf5b",
+      "afterSha256": "f1afadfbad9778eeaded73c5d4ea37f8916239bd46b8aef31c74c3f7098bedcd",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1085,7 +1085,7 @@
       "path": "cdn/293.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "da1b0813db56af1e8aa05da36f5e66667c7e358605c802d478aea71e18dc69c6",
-      "afterSha256": "24578eddc3c923ad14f200eb2f1eb4d5928f7a6290d6cd8b918dcd2840a4058b",
+      "afterSha256": "c05d1260ab0e5268ac586e5313fef7ac2f9edd145c5d712f481a43d4edf8b1f4",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1093,7 +1093,7 @@
       "path": "cdn/294.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "1eae5af803346917cadbc689cbb915cdb9da2c557ede1e2d5e98c9efec4d1430",
-      "afterSha256": "9b6a496752300010859627e823c5d8ca81b3c4f353e152f494784ff01f8653bc",
+      "afterSha256": "662d44391c8ffb66cf81eb86d63226d3d7c50c549ba81ee3b225347402452b0d",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1101,7 +1101,7 @@
       "path": "cdn/288.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "0dedafd6f059e73e1864483c6753b88014fcc6a5edce0e85f11d48972e200dd5",
-      "afterSha256": "c3a095950fbb7087aefa9158187784d5ffb15d2596a79585a1cea2085ea4d0bb",
+      "afterSha256": "a127db582d75d87e10963b6ec2c0b42baca396e1c549df3a35707af425c99b5e",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1109,7 +1109,7 @@
       "path": "cdn/292.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "cec0ca7e55fe8a7a832bab27d287d6d12c5ab237435c742ec75036ee92b945c5",
-      "afterSha256": "4075660dc7d14966d02dbf29ddbf1be2e3338c19cc74b271b8258075a1f4105e",
+      "afterSha256": "d5d9d8a00fe6bbaaf4c1a8e6580b2ffe3981771251f17ffe13391b0f65105cc1",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1117,7 +1117,7 @@
       "path": "cdn/304.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b1df4bb2727bba78b0974c8e4845d976c0ee134865b72fce1d11d0200a57ed6e",
-      "afterSha256": "47b39051fb4ce2263c0168658537c449b91a4d4bf0d7ee67b06c1bcc8ac3318c",
+      "afterSha256": "28518f710fa2962956431c966330452e328f912b8a3ebfdee6be4e0883dbad1d",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1125,7 +1125,7 @@
       "path": "cdn/296.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "457f3e1762c1975fc1b5358ef1c72467e717feaaade558a2615cce2484a16a1b",
-      "afterSha256": "99ad82c19b4289b18af6a027f4b18e3f99084735c747b97467c01c5ab879ede3",
+      "afterSha256": "ea69fc861917566c728a570fae7f61c823a989cfd0d2145101bcc24b4670b5c5",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1133,7 +1133,7 @@
       "path": "cdn/297.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "82d43d511e8ac6c3d4bc72348b0a4a72bea49c310a519c5dd7e8792178bc76e3",
-      "afterSha256": "4282d2766fff83ca5fe8759d4872f8c4dfd516b86acf6ad9ccba1343db4df59f",
+      "afterSha256": "f10742784bc98e3bfa60eb2f7a1ee717368d7df080776dac5ff497f8e16e817a",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -1141,7 +1141,7 @@
       "path": "cdn/291.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "85914aa505ccdc036edf941c52c3a779629885c53eb34c51e8bb5a49737375bf",
-      "afterSha256": "a5524be25a3e56559d57fd4c34c520297b9df18bef0bcc9b34dd374b1c3e4983",
+      "afterSha256": "8ed09f37a799a63d09636913b5807e91b4448e7847557a98586f106b5b6ac3b3",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1149,7 +1149,7 @@
       "path": "cdn/tag/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6d45612b4b1bc95e68395ceda90e340942bf94ab992a741f72a2132ccb6547b2",
-      "afterSha256": "085bdc6441d8bce63930dbec4b86b9dce8deb45ecea6dde983f05ee9bbf57aac",
+      "afterSha256": "21db910b21066308253e8fa7910d720c38fe5a690a951da93158a67a873e9710",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -1157,7 +1157,7 @@
       "path": "cdn/307.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "a10d4ef38f8e3f790924738d0c348b904fb228f7838f382ba148f94f794a531b",
-      "afterSha256": "797627522aa4b67d6bf93c061b9b7166145ba140b0577fe579aa9c753886d4cf",
+      "afterSha256": "bfa4ab97715ee378464a35424ce221e3fc636bd6e6b9c5f03bb4aea0c928a6a8",
       "authoredBase": true,
       "removedRedundantShellImports": 27
     },
@@ -1165,7 +1165,7 @@
       "path": "cdn/269.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7b11bb233fbe0ba8f1c5a9c722441d089c9915335cd1016c03c363dc26c725a8",
-      "afterSha256": "1482da5f38a58ad501e321de06ea2dcadc73be6fecd7564da7fab935f9980bbf",
+      "afterSha256": "b6a6525c91392a1697f583745394b4867292c7ada427a422843685a926d9596a",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1173,7 +1173,7 @@
       "path": "cdn/172.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "507c6d173513b30fd38f771d6988079b2753b4fccd4d70b84ab29e3f21ffc77b",
-      "afterSha256": "aa6087ef7b9a1ea94b8733d60ac3e7d31d9694bafeec62795e3061e55a3ca624",
+      "afterSha256": "ff965a8b9a2a566651d118e151b6c7ea102aa350eade8f20b37b4ad8f382f8aa",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1181,7 +1181,7 @@
       "path": "cdn/171.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6d5f9808bf87f538e03a92e2d405ee195b40c09420d8aa2b80018fa94d3954bc",
-      "afterSha256": "43470cc2d8fbd9a9acad2858fe0ccf25d74f62d20e8d5b30284924822a6ae8cf",
+      "afterSha256": "61ced8980adcbf65da7da27ec0cc244c6c96c4ac83a70a584323015609226a84",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1189,7 +1189,7 @@
       "path": "cdn/170.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6e5e2c9227edbf73379fa85db65c580e796b4325e01dbbc24313aa292cf0af14",
-      "afterSha256": "260d4135b20c3119d3ef28da58c2e6be3cfcaae3123b502f2b1d82c1dcaa3163",
+      "afterSha256": "4222f284280287f8782cba2b963fef8d5d9a47a7859d478ec3d69deccad330f6",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1197,7 +1197,7 @@
       "path": "cdn/173.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "fe2c7a05b1ffaf07c5251c14b4bea206fba5ff005ea35b470faa74136d39bae9",
-      "afterSha256": "e79a1be9247d4600230658a8247261d51e33314b212270cb492c8cf76f0cc2f6",
+      "afterSha256": "2540265c01a02d487095ed3f0d9a23ac93f7473597f80bfa2117b9c26314e465",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1205,7 +1205,7 @@
       "path": "cdn/164.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f9d8132cb2fc386be3da25e05aad8c4c570dfc598e0a47179697fb2449bf077b",
-      "afterSha256": "168ef482fd723200af8ce2ae7d3a3f5a6c23fca92fc899a571ade7d9f380b8e4",
+      "afterSha256": "c0456a3941c9604f5341b16267ac3eb6936a3d1e63abbda040e81d57843dbfd8",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1213,7 +1213,7 @@
       "path": "cdn/161.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "09df078a8bed60fdb4f33877cb57c9badfe798b8d9fb20ab8360ba48eb8e47bc",
-      "afterSha256": "5dacb5f69a39d4a109b8c06a3edd9d5822437dcfbe3ee7390094a6cefffc4b78",
+      "afterSha256": "a656fea417c58ea98aa8c34f6baf9a5cd63db67f3b1825338ea799edda4131d4",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1221,7 +1221,7 @@
       "path": "cdn/160.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "518600d86f62266db329f8a6ea61dbf6273709fa2d7eeff02da2b702821a71a5",
-      "afterSha256": "d41065ec2058fabfa982caf38adaf6942f517ef95f56afee764fa20dddca642e",
+      "afterSha256": "21e7f5f6bfb73a4366c23a18a740c307f848227764310a9d31c61a88b6b3cb4c",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1229,7 +1229,7 @@
       "path": "cdn/159.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "5f92d9dcb811446b24e92ba4c1219994f95c2da7e24bf6a80f8b4fe44596837e",
-      "afterSha256": "7be51722bc88752c03db696b5ef712f0312d2c8e21630643d387693b057a53f8",
+      "afterSha256": "be3e6e0fa2093073d448629af914921393318755f0594b1e0c2e2cf213950c72",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1237,7 +1237,7 @@
       "path": "cdn/158.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "c20f05afca7fff9371eac9ec5181357494f05ce84641925ce872136a87a0815f",
-      "afterSha256": "60d65bef4f90ff7fd00561d52e73c60650d830a7e49574a2fbb7371fcd6a2f6b",
+      "afterSha256": "31aaf17e4884ae630a4b20e6625eb6da6f354b807623fc88bf76baf41d9bd42d",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1245,7 +1245,7 @@
       "path": "cdn/157.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "4d60746ea6fa9d911acf0a2865688e4603cf40b250e935d5e0e2d08d63861e71",
-      "afterSha256": "e85dfa6a4971c92cb89eb6925096febc5dad9e6af3fe2745e91d705244bff87e",
+      "afterSha256": "656c5b26d862e27405833d0367f1e4d51345903a8594a1bd4b6e2dbdd8ec3c7f",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1253,7 +1253,7 @@
       "path": "cdn/156.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f7ff740e083235c495fc9f47b0a6006106c453e276987de7b96cb4255ec4adbd",
-      "afterSha256": "14e06176c191e187a0559d21ebdc8d66f0119d6348279a4ec3ee68fcad69a5be",
+      "afterSha256": "cbe9bdbcfcc4397a3c31c7327016b38007aeddc39f502dc716ac818d5ef6b30d",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1261,7 +1261,7 @@
       "path": "cdn/155.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "fd4441928a643ee9bbd2771d160d86e170dc10189dcaf9de81bff1eb0b8c7fe5",
-      "afterSha256": "a09b972f90b0a8fd767d49e3a932369e88daefc7fc6dd55b2c720ef8f8d3c2df",
+      "afterSha256": "79fddabe62b1e139d1a399440d3051ba1bb5873287ec8115639de8d4e9140664",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1269,7 +1269,7 @@
       "path": "cdn/162.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "c150c163f3f601ea1040817a467ecdceae96e97a149ac06d413bf3d7b9decd6a",
-      "afterSha256": "43d9e15a4c702933014b1c329de73ca02898cbf9b8cf44ee3fb4b529695f3161",
+      "afterSha256": "52b12a8f6b31c7f22a12fe7af43e7be5e276059d29a907f4b041f4ed1d6575d2",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1277,7 +1277,7 @@
       "path": "cdn/273.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "1d93fe5e5d2c8c0324aa0bc999dfa4ea33a97bd187c612072c087d57012c5614",
-      "afterSha256": "17a4ce3c126448e71591015e371f449e135edb39b74f91b5c6e7273074a5ea5c",
+      "afterSha256": "6074e4d603387f44a6eed8fcd87a181147b92295e70129338c17c0e6dddea2d9",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1285,7 +1285,7 @@
       "path": "cdn/272.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "09ecb1fe755c821ff2935bbfe5db653c5faf1f0d67933ec44eaba21f0ad17999",
-      "afterSha256": "213e2b34e6286629d5eabb5c08a61739f69fd26101ac9d1f9d9ccb2739f301be",
+      "afterSha256": "9dfd17ccb4abb568fc393d1a241aec4e8ec474554289c37ae97f1ebfe15b3bbb",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1293,7 +1293,7 @@
       "path": "cdn/271.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "ad0168f34b3b23b36b22003c0746d46fff4f94157ad565fc1de4b2aee653f8e3",
-      "afterSha256": "5afec8c22fad1ea52b94bdab1c1eb3cd5b46d4f11265adb24261c5d26f2afe92",
+      "afterSha256": "bf588e1ddcdff9c89ddbb79622dfa23594210c3bb13cb2e14638bb3f07dbcc30",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1301,7 +1301,7 @@
       "path": "cdn/270.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "adf7962b30d16475e14d48b2e4ce2d34c0d57ea97744a03f5291684f0e0a2e1f",
-      "afterSha256": "eb99401dd3c17e233dba28e79acd7e2434d8366f8fd8c64415a9f4ca15c1f580",
+      "afterSha256": "a22376e9dcbd1302ffd6f34cfe87266e3de3842f98c39fd2543c2a11dc2eb1de",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1309,7 +1309,7 @@
       "path": "cdn/149.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "5d8d4aa7fbecb34daa1fce389dc5e9cdf6ef5ee41e25e3f2c358ee25dffa8653",
-      "afterSha256": "c8e4052f55b9118de87590bff4786df3e308dd0e58e61e5af1f9e555f8075deb",
+      "afterSha256": "dfbc1abee2e2f002c168d26cca7b810bb730b2ad33e14f0e530e22253ba85f03",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1317,7 +1317,7 @@
       "path": "cdn/150.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "75bc482bf0494c4cde84de952ac4c7e88f2200f9ae3f821e79d5fa28d02bd273",
-      "afterSha256": "40c2a2a20c650dc13ca76f1ffb684386c9508bc00033e78a73d5613b7354a9e5",
+      "afterSha256": "6728df7a23020f095cf05e844edbe2d8b2918c4df6f3401c862fe1212e4fefd1",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1325,7 +1325,7 @@
       "path": "cdn/151.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "897f81b42f506f630a6e3d8742d9283725bb97e6ef9e1a84f7e632ad87e0ffd4",
-      "afterSha256": "6af3a9749c6cb916da6fb1cd8c0e21efbfe778d91fb1b71b9276b1c2f4affc36",
+      "afterSha256": "2b897746ffc756026a1e9b20df975d296f3a3b9c9de93d6cafda6fd75e137f90",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1333,7 +1333,7 @@
       "path": "cdn/152.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d7352b493393c0bcc325acb5aeeecbed018bf78f45d59b4242fe7d818491a156",
-      "afterSha256": "2c7a0c8a00ab812899c23dabe8e0a4e1b8c5a9341a31999b18ed19935d27fb0b",
+      "afterSha256": "e851b9fc0e34c1358514b4ca3e5b5d643f54e42d04a43e1c2ac4818baf77bf8a",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1341,7 +1341,7 @@
       "path": "cdn/153.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "73c74122de6973e20dd4fa43e9ced5b7b8d1a121af560256483b68f37fb7097f",
-      "afterSha256": "889d387d0380ec0f0596169bce72fd36f33495836de618e07b741485d1382573",
+      "afterSha256": "5fcc5ce1438e9a8b0d5c70919c211b2af03c0081db9453e13bdecc51f4abb91a",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1349,7 +1349,7 @@
       "path": "cdn/154.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "26c85cdaa7a1ae1d00ec22f102b24b33b634a99f88d743bfd57632486f54df52",
-      "afterSha256": "0c51298229cac84d07650fd512ba5431da3c3a30a4aade6ff6ff83386a2ea9b7",
+      "afterSha256": "56eb41ed02709beeb8185884bb6c94c66225757c8acfa58e4e856a25b4270ff1",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1357,7 +1357,7 @@
       "path": "cdn/165.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "468a6a6b9be43aa337d96d2ad97ba1d993d5f3c9a9008156416e728f86801533",
-      "afterSha256": "8488cea70c382c7f97c8660bb1d8e142b8a41ea7078dd335443491ae259ed585",
+      "afterSha256": "4e0a1c42a92e54f70b4a59abed8bc541c8d2e6fef4856b886837b6e184ac9c50",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1365,7 +1365,7 @@
       "path": "cdn/147.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6963b7235a632af28108dbc335a46473b6e68d6cefb149b74f0f7056311a0282",
-      "afterSha256": "8b8b4b4f851999f3bc1179d6a732beb5133b1203d75d745217ba90cd82a011a7",
+      "afterSha256": "2d489c2381a8a9dae164c56b1194cd0314f49e978d9deb6d26d9c054ca5139d5",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1373,7 +1373,7 @@
       "path": "cdn/146.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "40d4ed97d042a8bfe0f99d9b972b22debc890a958ce3c999be2428b216ac97af",
-      "afterSha256": "5096c1dad0468857084e46604d6fc486be4ad19a2c577237d8e5c1659c7804f4",
+      "afterSha256": "963dead7cd9f1a9fd76d85c422232ed48bbd5622a29c50bd2f74e4aa5302bae7",
       "authoredBase": false,
       "removedRedundantShellImports": 2
     },
@@ -1381,7 +1381,7 @@
       "path": "cdn/145.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "4de7b674859d42fd3caa826780e02c0335bbab47a4716bd6982a65d22d4820ed",
-      "afterSha256": "255112771a9d2f6ae4d2f72f2d786085920c8f96d666b9d08ac49ea74af49891",
+      "afterSha256": "957d80fe508268db0b4babafb0a39b4138de0f86117b320b0b15cebc14d5b21a",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1389,7 +1389,7 @@
       "path": "cdn/144.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6911c8946aba192758ecb9d84156dd9780b917839c3567651a795c5f23750b63",
-      "afterSha256": "bfb1d19e2e80a7bc4f27fa9bdd4a7bfeea40c6d698eb5813b3f318beabbdb19d",
+      "afterSha256": "72fdd8ef947994e16df172de29ac72fa0e638b1b644c67ff7ddd40aefd3f5641",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1397,7 +1397,7 @@
       "path": "cdn/143.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "e25f1b82de06b4869d3df1e566a2d6e8ae1d8eb5b532f12cc1acab60b8fae227",
-      "afterSha256": "d080a1944a0eee70f96ada7d63db0ff88390147a0f495cae26eb9b7b91e45bbe",
+      "afterSha256": "d975e8180d838ef7e320b92caec944f73220267948a4352abc40b24f60b6afa4",
       "authoredBase": false,
       "removedRedundantShellImports": 2
     },
@@ -1405,7 +1405,7 @@
       "path": "cdn/142.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f3a24969b481e651f9c2da0b059f93b192d495b5c7cf9a4622d3e719b2c0b2c4",
-      "afterSha256": "9239b61da6586fc87f8ea355ecafd1d104311458d2714122375db015193fdb66",
+      "afterSha256": "80f23e0246dd7b7d4f6c5d90287c99a9238f8ab09ec52d20e99ea6fe60b90cb9",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1413,7 +1413,7 @@
       "path": "cdn/141.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "0b126647e23d7f0982c43fe15473968c8aa9bb9f042cb1bfdff64e76cd922b58",
-      "afterSha256": "ecdc1a48914f27a810e885dd88b717c34c37a53274c463861c531cc9e9298653",
+      "afterSha256": "fe0472ee9359099de15ee50f643d3a014216a8c0233583b71a9da1265e8ee3ae",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -1421,7 +1421,7 @@
       "path": "cdn/bit-planes/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d41420e1f254962b07cde56dcf3ddd0a9928cd326db910c95d974d501639886a",
-      "afterSha256": "0d33da69d50d71f4953351eb1aadebf84a6ab6402f8197b8473f0b455dac73be",
+      "afterSha256": "e80a780ee78d1f2d71c7d357a8bc09053d887d016a7fa2a3444fc83a8dcf2957",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -1429,7 +1429,7 @@
       "path": "cdn/bloxors/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "cb5cde22b73ba20b92133a1b03e81b5fae65ca0ed9b1252e5dface7ba24ab170",
-      "afterSha256": "06207eca7d48bb4d819b3ba6758c55cd9fffe05e7a9ab694863f7c51171ef139",
+      "afterSha256": "2e19cf785fc0a2538c31d0b77c10941d6de0b3ceb9aa0a74633f1a25698ebc69",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1437,7 +1437,7 @@
       "path": "cdn/block-blast/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7c840220238f0e2eba4df29a52e4efd559395d5ea6a225e9b7cc071899bf5193",
-      "afterSha256": "fca138725364453f79c277d1f923b1b630d92389a6f67a768bcb146f46b2842f",
+      "afterSha256": "aae3d11fe92b505d055308698f98ca2a5e3570d19d4430581027dcbfc7b5d3df",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -1445,7 +1445,7 @@
       "path": "cdn/BTD-2/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "0c0467da65d45f788b30f19847b41afa4619a43dd0f6fe6b7547b5ff89bd94e6",
-      "afterSha256": "a89dc65458074318b6bfb306871a0cedb953d5d9afc0933d4bd027664168474a",
+      "afterSha256": "3c3ea6a0232869b48199ba55bdc0b8a61e41b11fcec79c423647427438722f98",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1453,7 +1453,7 @@
       "path": "cdn/BTD-3/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "2d9b29d81176eaee8d712809f1bef083bf2d72bde09e7b0ba2f23edb31aae3cf",
-      "afterSha256": "06939572f40ceb7ceb7de6998efb3063ccb321cc7faeefcae35da189756e9102",
+      "afterSha256": "ad080a65f0070e67b8de49c3bb824d077630e8ec27504892ec7bbcf8dad86792",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1461,7 +1461,7 @@
       "path": "cdn/BTD-4/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "2932f0771209c3125281c3e406defb3d7ba8e7b261f7149e1887325057b69456",
-      "afterSha256": "2d926e40746971cb9042ce14145508aad269d201a12f79dd2cbbf0515020b5fa",
+      "afterSha256": "7db530365c81d3cdf391bd179b6b9cf091836b6f307c62a76c19aab9c9c98588",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1469,7 +1469,7 @@
       "path": "cdn/BTD-5/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "440b31fd611a2ab85253754eda0e09a41d65d17f5d7a2681d1227f8a5ddafe9a",
-      "afterSha256": "9b02255fc39b69c0db65c8d4e312b91c56da35c45fc42a8020f6254d1217309f",
+      "afterSha256": "c20076aaceb0c7909bb2651d369f114523bdba00f50cc97bdb74a462a619d51e",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1477,7 +1477,7 @@
       "path": "cdn/Burrito-Bison/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "9084050f36d5e5e64ea53a9c39f203d903a488cc10e00b9a60d6763f5b166bd1",
-      "afterSha256": "7199f0ef0f1f95d3d3b4f63d4f38a58d0897b13e277e6f1b5e1935945dda9b1d",
+      "afterSha256": "31787d477ba89c0a32e024d201ec5a259a1ffb5bf36cbb5d41f9cabb357513c8",
       "authoredBase": false,
       "removedRedundantShellImports": 2
     },
@@ -1485,7 +1485,7 @@
       "path": "cdn/challenge-the-runners/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "10b0681f658eca2e16d74eadda79bc3295323fd84d0af7e3031e9f724586ed37",
-      "afterSha256": "11a788c3880eb04539c86ad9c7ad709d57761a07f208236dc2668a6a38a7a0d3",
+      "afterSha256": "7b3591cfd2da0733034b2ec42a4cfe4c11f6a98c895a0418f1fe745388a0348c",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -1493,7 +1493,7 @@
       "path": "cdn/chrome-dino/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "55a0a4e4ac3f1244d73e24891b6dec145caf1a6c5f7783d2eb5745a7064a2d50",
-      "afterSha256": "dcda5e87fa2e436287b43023454060a6d7a345a6309dc75e9f0ba075e1e57542",
+      "afterSha256": "f82f530b9e7fb683c6ecb6a1ae59607f8284e8ba87906afc5a71328d866e067c",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1501,7 +1501,7 @@
       "path": "cdn/clickerheros/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "067d2af83cc28d9b0c6cdbcf287b8b32eb8d3f6cbf19e7ea7aa11a4b4ac3d2ce",
-      "afterSha256": "32a976eb5d40eece07ba65334013a7ab7cfe545a27ae769e26f8a8eed94e2576",
+      "afterSha256": "1826f00ffaae880ac639556f89111640f9e2cfa92bb19dbf013f78695eff655c",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1509,7 +1509,7 @@
       "path": "cdn/cluster-truck/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6472beb80b3c8239654e18415ab43315090def1298ab4ba048f281cc6c1a6814",
-      "afterSha256": "5407ebae3a7cca6b9dbdd93b75c74b517a28e1000195952c1a6df4bb6ceaa5ff",
+      "afterSha256": "b6749909c145590cf3cde49584d6346fafd1f83ec22319c7b415560636e5b2d1",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1517,7 +1517,7 @@
       "path": "cdn/cod-zombies/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "dedaa120a171eb571e7826112749bf6e542ce8d80fe4d4f19ae0bd19d382a9b1",
-      "afterSha256": "ccce5c7b8b3c9eb89de06e5e9e1e079927f3cd618be732d4bc94060180c5d9d5",
+      "afterSha256": "eb1b1c12ee1cb56e82b795a63422343320d2f0d82d21b451fbf835b7e122ad39",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -1525,7 +1525,7 @@
       "path": "cdn/craft-mine/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f1de1a9bd1ff6550eac8e6739bd280099382f68b94b4555a2376c662436c217d",
-      "afterSha256": "2c7002a66c373b4d5a82ecb396443b7880ed0290dfcd1a2a74d6028dc486ea3e",
+      "afterSha256": "ebd9184b7fcfe8e23dfa222e40d8614bbdf9b9fba16d16c062772597c55429e0",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1533,7 +1533,7 @@
       "path": "cdn/crazy-cat-3d/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "9fac85795746a7e7dd0d4575bfacd6072f38b02b1b6c0dce5101415e19d30055",
-      "afterSha256": "3e6f20a0e12caecd24291fa9b9391f714798e94e948ffe357b6c74862c5fd2e8",
+      "afterSha256": "389678b6c0864e4bd608198aa71ce3a709c8dc4657f249a37e868497d4bd4c88",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1541,7 +1541,7 @@
       "path": "cdn/crazy-chicken-3d/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "49c48638cd8be7bb7af1b5359fa302b1d2099f2a71d02dda30e3c71b4cc4acfa",
-      "afterSha256": "942f7339c724634d475153114dc528379fe0264df89dcef62896962acd39636a",
+      "afterSha256": "a9cf065391a637574e413beac68638c196e02247e18156a97d6754fc79f074b3",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1549,7 +1549,7 @@
       "path": "cdn/deal-or-no-deal/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "89547efa8477a5434510869d0a6ce7b1745593342270b83d2e2169d2293d059f",
-      "afterSha256": "46db35ccfa09390a530b2fd5e4c6b6719eea3f6b45f3db296731fe553f0e9011",
+      "afterSha256": "8c9a89525ee02483ed3ad4aadfb2aaf5f22b02db9b4d55358a4d853a58dbf23c",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1557,7 +1557,7 @@
       "path": "cdn/DNAtoRNAandAminoAcids/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "3f63f061b183acc01d1bf96662959b3c20241b58d3761ceb947eaa951cc59de9",
-      "afterSha256": "123a8a69ef16b7d9cfbba6619a87d0d2989f602582c6ea8d493bbfc8cc69cc66",
+      "afterSha256": "0b8ddc23d18dae7365b9c79d510b12235b25369f880b16ddaaf9d4678b00cbe7",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1565,7 +1565,7 @@
       "path": "cdn/doom/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d5d3757288a7836c9380fe6778543e756416ce0ff255fe9a1549e5e131b93b4d",
-      "afterSha256": "d41351bd711d5551e62eb7c1a6eb7ef49b6a5613f08eb36d43afcf441cbb458f",
+      "afterSha256": "322a307345b30e54b0016f439d580088cab98d46c968489a827d661526c7b7d2",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1573,7 +1573,7 @@
       "path": "cdn/drift-boss/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "508856e74a182b637b86376c0c07b3424a3ed2d5627d49278c81f42c2339d6da",
-      "afterSha256": "7c61b5e345fa0f4bb9e8401f6a153ac66aec6f8c0d944f9fd4213021f2a2194f",
+      "afterSha256": "ff6b2d0bf7edba02188c2df558108cc08f2eff145138fd79602dd5dc57366b0a",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1581,7 +1581,7 @@
       "path": "cdn/drift-hunters/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "3d157d95c1a514cb151efc86785458e48595a97c30bc4fb3c113830adc00052d",
-      "afterSha256": "5a0eb6e75f7742c6f01411d73d43eb27b32f5bf9f23f89b329ae9598116251ba",
+      "afterSha256": "b5f3807225513cc9a7c50b3c987ec2258c289ddfe9abf2129fc26fc584bd151c",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -1589,7 +1589,7 @@
       "path": "cdn/duck-life-1/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6c00bb19ad274ec8362b23180c56fc076d3480b27a5ce2d21f389e4a189dfcb8",
-      "afterSha256": "eb2ef2f541cb87b9ba5b3eca0a3fa7e49f8274097237496bfedafe9204b257eb",
+      "afterSha256": "f0302cc4be4e6bfe4eedd0aff4e91e8b775279d0ad7644133c130f6464e64ca7",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1597,7 +1597,7 @@
       "path": "cdn/duck-life-2/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "92088de53e5c4098f0ed4cd2375b312a6d5e3fb16ca82989d2331e5af6a10363",
-      "afterSha256": "9a83d97367b93e29db83f88bb30b490e5b4e5d7a0ea5823668002b01004724d5",
+      "afterSha256": "8fa1d6732492cb397677e33a76a730ca27e811a4f8938e5afcb952364f8055a2",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1605,7 +1605,7 @@
       "path": "cdn/duck-life-3/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f229ccea2e6aae422a37feb6d7d37cad9067e73031a39a65ce97c7a25b1062d6",
-      "afterSha256": "10d7530f6dced801d266143b54809d16e1535c6a00f0410c6775b989340c9617",
+      "afterSha256": "558c04b56a5a8fe32a21162d29a5c93a8a85c45d38877d72c7948368a66a1bd7",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1613,7 +1613,7 @@
       "path": "cdn/duck-life-4/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d654f03df9fc04207d6d894b49727725d3fc25338e7b8b3b6ace9c34bbdb12bb",
-      "afterSha256": "38d8d1e3dd522d6ba67472c3e0a1dc7133303e381e4a0b2a6b8268868c1fdf03",
+      "afterSha256": "253b4a68bdb9d0d1a7c7d4dbafcbfffe6b058a8cde8ea10d9adc39f468244fdd",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1621,7 +1621,7 @@
       "path": "cdn/dune-2/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6e4d9ebeafd2b33a46ff11e17fca93693a262ab5045ddd6fa1e99f86349ef047",
-      "afterSha256": "1f235ecf54b0edd0e42d880b9e6c31105a5ec934a377ca604fcfa9438fa2e3b6",
+      "afterSha256": "a7ada818ed9714b900fee4b9067890ada18423d597ba71f68cbf4f1529884609",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1629,7 +1629,7 @@
       "path": "cdn/eggy-car/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "539d20938b086164b9c933edcdfdd2bae6d54f03d409243fc71f5d9829149d12",
-      "afterSha256": "9b25587aeb0eb8443b4cfbe1b1bd295dcf6da566eb4fbc91e7b015da075ab8e2",
+      "afterSha256": "2e45fead0315bbbec09a57edf792d21f19ca86b64c353d81bf88597de2eee7e6",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1637,7 +1637,7 @@
       "path": "cdn/evil-glitch/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "c56839867922434a3cbf90fbe8204badfc51523071bd03629cf5ad630236f793",
-      "afterSha256": "1279936b38b352a2a8202e4c42423bb0683eef85cf117b7c93387a88e70ef819",
+      "afterSha256": "f7e9df50e2d290aed47b7f09889ebad5e18091834d8d6adf31c497a49b7b5227",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -1645,7 +1645,7 @@
       "path": "cdn/flappy-birb/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "9425b088d2cfb358fe93c6dc3f39825d5325d910ae76a81e55a5a49764887699",
-      "afterSha256": "c51f00b59597e424c0340c1f4d7cc092a7ee68123c5d81efba33b911ecd226de",
+      "afterSha256": "034bd8c3a27264fc301626d744d36eb3453b4b441fb70c26d99a80176d18cd0b",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -1653,7 +1653,7 @@
       "path": "cdn/Funny-Shooter-2/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "16fb4a50701bb34d24b8db35616d0b5ee68ec0a7f8b9d706a84ef4e12c799c0d",
-      "afterSha256": "864945872191ebe3cc6fa7066a5adbf29b3f4d9e5c301040b2847983d08d5d31",
+      "afterSha256": "1aaacb1a6d4d17a89e1d9a62c325c1a9db446640097ad8a5f90589318efe1fad",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1661,7 +1661,7 @@
       "path": "cdn/getaway-shootout/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "4f6785350ad61f7e83f682e1032786f69a7ba4f831de6fa673168178a9f2c58a",
-      "afterSha256": "69d02c0ea0b4411657f6e701ecb61e36d5625ff5da62b72ce7c3aee11fe95a6a",
+      "afterSha256": "e3687dbe559c7994674fbc046e82f976d5f1304ac344e0724803af25e06c9fec",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1669,7 +1669,7 @@
       "path": "cdn/gimme-the-aripod/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "4d1bbc16ba3480d4bfb9641c1b34f90a3baca610b97fda104c843817f96af8c0",
-      "afterSha256": "0ca20637bd76c05f2a25c6b1d57c62ee02f54c17c2e3cdb81a164e2a7c022251",
+      "afterSha256": "793c3767f08930b238b45400a327e29339b867b2d6497234791804aba5dccef3",
       "authoredBase": false,
       "removedRedundantShellImports": 1
     },
@@ -1677,7 +1677,7 @@
       "path": "cdn/Google-snake/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "c1209579986adb17b3b533122e92246f7e2bafce1f980ee005210b08dbcb0b53",
-      "afterSha256": "2a539f3611fcb721bdeeea4977e78f2044b166fedd07b1ddc238b1e6aa332322",
+      "afterSha256": "af8fb00890ddffab4019e01e6e4c7d822bad58d262ad8f8a892652bfb6765617",
       "authoredBase": false,
       "removedRedundantShellImports": 20
     },
@@ -1685,7 +1685,7 @@
       "path": "cdn/grind-craft/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "fdd99bef77a4bfc273229ac0811925f4592d2df920ac9de126f91776a56ce17f",
-      "afterSha256": "30992a2beab8b88973451924ceb140eae7086f6a2576370f90ce94583c6093e5",
+      "afterSha256": "441e5d1606bab70544f01e186600ec8d8b4b08497f3e996704909ea57d2576fa",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1693,7 +1693,7 @@
       "path": "cdn/helicopter/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "a9fd63dfc8a90562cbd1e5d1b0a17bfb9396035ed832fe5f4e2c5807a919f213",
-      "afterSha256": "02e4c190b7245fc096e399bee13c2a081d738a76030ef843794b47a645111585",
+      "afterSha256": "ed6b6d9400a9bb9e80b2b71f42da37d124fdff77b783603df593d503249e03bd",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1701,7 +1701,7 @@
       "path": "cdn/hextris/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "9e03157b270af9c4fcd979c7987a3730e9078d1a71afa2aa933c9b54605883b9",
-      "afterSha256": "a3b9009da4b5509e776cf8c75857e7c5f3f85bd62cf78e8b05fa1c540c1749a5",
+      "afterSha256": "6f36468a2d02c040aecd79bac0d71a74fe96cd46b04e35b2de1ae5e695739657",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1709,7 +1709,7 @@
       "path": "cdn/idle-web-tycoon/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f7bc7bcc6e1e84f848f05b87cb32990beb74b993ee2998a56882abd22a60e356",
-      "afterSha256": "26deb4509e17c33de32a0ccda9bd7761dd605b5b79d51b1136ba6a9c2ec24dd7",
+      "afterSha256": "b81322c85f806dfa897302ada4cae5e875f3c66f7b37d278d4c72f0f0c69580d",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1717,7 +1717,7 @@
       "path": "cdn/impossiblequiz/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "270cacb0c59e8bcce54e00dc28cf89b108af9ce70322e2bb4f86e57659cac8ab",
-      "afterSha256": "69f8483ea51573d0c5c63d7e913bbee936bd651315a4c2d0b188c94c39fa6fe1",
+      "afterSha256": "c838037aab3dd342f7b433ef5742fe8820a510c24dee401e433976db4bce296e",
       "authoredBase": false,
       "removedRedundantShellImports": 1
     },
@@ -1725,7 +1725,7 @@
       "path": "cdn/impossiblequiz-2/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d88275be7cbc13621d68a30669962cd76adbe1caacfffab61ac73feb22114f02",
-      "afterSha256": "03839b6e0253cf4f5e48b203f11795bd5fe209f659433f409da3cacec9394b22",
+      "afterSha256": "7424aacde12ac34684305f4ce64aae79deaa0896f8585320e6feb7e9c265c4c2",
       "authoredBase": false,
       "removedRedundantShellImports": 1
     },
@@ -1733,7 +1733,7 @@
       "path": "cdn/jacksmith/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "bf70c6df4f7d4c9c07db22d485d4a86dd6e4509b00704ee43684ed8f9c0ba7a5",
-      "afterSha256": "83adf3a954d82e5b0c9d74e34c2d7614b147141ffb48b505ae072f8b97a02e67",
+      "afterSha256": "0630708a202a40d0a8bafe7a815d9874c7018113b314e00ebff6be689c7f7f10",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1741,7 +1741,7 @@
       "path": "cdn/js-roulette/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "1dcd909ca8a8d6d8200ccc68735c144f88bba44f0de563cc3347a672a6f9e1bf",
-      "afterSha256": "16e35d39cf32eef12b8307a2414beae61399bc6253f311907b37f23c74c3c7f6",
+      "afterSha256": "b8603aaa3fd0f3d1e087c34ea109f822bbede6b12a6218ce2649a205cb2987a8",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1749,7 +1749,7 @@
       "path": "cdn/learn-to-fly/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "456ed070f4784eb1b68e434adfacea1cef6664c1985253217a13c846afa3a340",
-      "afterSha256": "c7db288eb7e4f9f53c6a7213accb0396253ae9eda4ee050eff6f3f82185292a1",
+      "afterSha256": "b43d01ac6e0caf3800744b8452151c86af3e9e6771823d105330c82c310ea2d8",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1757,7 +1757,7 @@
       "path": "cdn/learn-to-fly-2/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "c21e8204d08f68922d8d58d7c94db107f9225190e712df190400470b6a4e3b2d",
-      "afterSha256": "1dbf6d4d98afc3dc5282afc6b9f17b825c59ee7cc93e2d56023f489757fb5076",
+      "afterSha256": "4ed73cafb25b0e841c87e4e5f84af64b3b8d6dee4fb08bd7b2c18c596190b65d",
       "authoredBase": false,
       "removedRedundantShellImports": 1
     },
@@ -1765,7 +1765,7 @@
       "path": "cdn/learn-to-fly-3/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "ee23d4cd05ee7fb8e7e33e4055a07afd0e0142ae8cd39297087eea60dd56870f",
-      "afterSha256": "4d2847b51bfacd35a45c2c762729e19b644596d48fa85d8d0ec0ab9d25bbd4e9",
+      "afterSha256": "905467801f2eba4d7a47f1dd583bf5996e08a7444fba1c34fc94fdb5f51dc538",
       "authoredBase": false,
       "removedRedundantShellImports": 1
     },
@@ -1773,7 +1773,7 @@
       "path": "cdn/learn-to-fly-idle/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "0bffcf74c1bf40bc919e62a5295266c196de1fb6d6d6c1e0021fd79d852b6e36",
-      "afterSha256": "b8e2e579c6d903366cd3d350527a097b09d9c532b30704661ce01ad021c5065e",
+      "afterSha256": "16500ab6e5bbfc29897adf63184f345afb94019f79d2505986741cd3e6d36c70",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1781,7 +1781,7 @@
       "path": "cdn/madalin-stunt-cars-2/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "9d6368c56af85ef584c4b76e0b40bd719922c79c526e51ba92f00c16c7813002",
-      "afterSha256": "393951dba8404ad30843cde399fe73c464755d8a821b88d13bd6a8e7a53d0b0b",
+      "afterSha256": "d7b9e74c82ea89c7777542070eb11bc4539e4795406d9635fd495c3cd585c220",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1789,7 +1789,7 @@
       "path": "cdn/makesureitsclosed/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7f991f1cbc3dd1e7a9e4f8e4b76f93fc1900c2e4d6c6e634eeb2942a93250ac8",
-      "afterSha256": "680f17551f607f70c9c581510bc81f09de366fb383efaf85b17770ae1d1b2e08",
+      "afterSha256": "48e6b2f12b8f2ba0281946e5af01e1d626e1417d3a7ed094497626cb3651bcdd",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1797,7 +1797,7 @@
       "path": "cdn/missiles/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7bc3e7a7f6b851abb208b5034a8f232fc2ec2d87c27bf3a4bdd937ad36726fa2",
-      "afterSha256": "de1069c8920811d562f053c113b06495f23b619a5fe363e14be54d4c41e1d474",
+      "afterSha256": "2ef616983d728125b0348fa187bf8697f46b6d67537df0afd4a03459c406d31a",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1805,7 +1805,7 @@
       "path": "cdn/monkey-mart/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "cb07cfcb85e6956bd542563a43d0b358eec8135b155efe7f0ff4cffcefdcea06",
-      "afterSha256": "a0a98f3932c195ec8b3ab5f4ffbbe975aabf710ad8785cf29ec2efc1527edcba",
+      "afterSha256": "56d816ffdc75ef6e2f6ddbc28b27dceed737ed0c1071a91e5bc9b2cf230e80c5",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -1813,7 +1813,7 @@
       "path": "cdn/moto-x3m/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f2bfed43d29346b80a588aa2a2b0db4e1e35347747f68c7f88dc5ab0e91eddfe",
-      "afterSha256": "27fb001e50a913d02af6ce378be3f0d8c28834eca53e26d85ff3912444821416",
+      "afterSha256": "f52f49d86c2bf0e32121aec6ebb804cc2f3c02a8d99619f785cf2bf6ca5104c7",
       "authoredBase": false,
       "removedRedundantShellImports": 10
     },
@@ -1821,7 +1821,7 @@
       "path": "cdn/murder/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "5640d730e0bafddc15200b000b39f3d6c051bdf1a2b9b513ce60102418fc9cce",
-      "afterSha256": "71df979ac9577a2abb19257050fb3e7ce668d3606e2e1417ef2efbbb5c77f8ec",
+      "afterSha256": "b08546fd70c53570874581269b94f2a898bf5f013abd8897f9f891ad544ac76c",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1829,7 +1829,7 @@
       "path": "cdn/n-gon/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "5f82402e63dd964b574ca1afda63c594db27da7e2a655f3deaa961007fdb89ad",
-      "afterSha256": "e7b779f88d61e407b76ee792d15ff56b92920297b45aafb027315aa38fad9464",
+      "afterSha256": "7ef8416d0ad5f829f7865dd4c6b9e84e9c204779212afc83245034652611f9c6",
       "authoredBase": false,
       "removedRedundantShellImports": 1
     },
@@ -1837,7 +1837,7 @@
       "path": "cdn/rusty-submarine/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "e470f807e29391b0d5f98c000550e72d9e70e49ece9597a4a37ea9983a54495b",
-      "afterSha256": "25216d076172accdf95378bf8ba950759d4f5a69804424ec68e5694daeddbd32",
+      "afterSha256": "a0c69a922a343ebdc99960313b18d5680e2c5d5af9f4e1f8d6df7cf8fc49ecb8",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1845,7 +1845,7 @@
       "path": "cdn/other-tag/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "8110602235463dd05c73d0af7e1a2a1f925049fdf0550550fb715b4c5db14521",
-      "afterSha256": "a265231c71975e662843e6d3ed33751a39018e88cffae8dea8e74f08bc2691b1",
+      "afterSha256": "82f10e29917960b470f60235ae95a5920f4891a389a8ac93348d4f6ccedd75c3",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -1853,7 +1853,7 @@
       "path": "cdn/OVO/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "02b844b56e2e41b64033425a5bb3138dacc7576fe18f7f8f780cdcaec8965af0",
-      "afterSha256": "d0aab996560b84b5a46fe359e534f70b805dc475837cd6365fff67e556371bf5",
+      "afterSha256": "dca34bdb1abe7a42f01becfd8d1a590b25930c3cfbdec18078e1df3594dea403",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1861,7 +1861,7 @@
       "path": "cdn/pandemic-2/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7410a4174ab160af623639e43154a22daadc4cb4334a4e37f7a3f89f6d4fe4f6",
-      "afterSha256": "2e075f5bf603c85e5a2330bd1cc1ecebf62e44c41db999ce383ad929f10befa2",
+      "afterSha256": "5739bdc9be56d5216ec59d71cb8ac593ed2d069c81171e90fd13be360c6f0624",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1869,7 +1869,7 @@
       "path": "cdn/papa-louie/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f7d2ee0781b85495760f64cde4d27c5d3a22cd951cb2a02590f903fe29588e6e",
-      "afterSha256": "457cc718603a33afee6fdfa20e11592d50e6197989ff125f3341d286de742a3c",
+      "afterSha256": "fc9e29878f019a47d38f5d2e80a49bec9236c3cc2f789d25119f6d37aedeb730",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1877,7 +1877,7 @@
       "path": "cdn/papas-bakeria/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "236e015ec863dfeb7e5910dd1c9536ce5beaaa39707ecc24b11e8bcf56d94032",
-      "afterSha256": "cff7a8e86b391e3b151c97e033545f1abe204b96cbdacb54c6f28f791a350fcf",
+      "afterSha256": "73a38361c7942e3a82fd97ab8b1251779eca434745f2af644d8df12435b7b1e7",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1885,7 +1885,7 @@
       "path": "cdn/papas-burgeria/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "5f94dc12f7e96e28ac775be8a511a9d67fc0f5e6d8fc8a5a6bd6d09c6f807d38",
-      "afterSha256": "4b150d40a8d977bd0f958820782ec3cfc5d504498c64af0c85e5f6852a06902f",
+      "afterSha256": "d7fcda5599e33fbbfdc9ba7147532b4f6613f9436c5ce99c2e72d2b1e6a9c682",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1893,7 +1893,7 @@
       "path": "cdn/papas-cheeseria/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d3d2e43603a3944b0c2d6c58e66418516a1a6b3976c735642c692b63e386694c",
-      "afterSha256": "e72ad108cd91e1d2c7328c9172df4aa6f9d084fc30638a6f60b387db5ab7faa0",
+      "afterSha256": "2a1a8d9e4e29b73ac49456b136ada61ecaac4fd0c0cf1429c0dac1902ac00dc2",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1901,7 +1901,7 @@
       "path": "cdn/papas-cupcakeria/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "db7c246ae7ba3c04735b6283a57a4f873a859c38d404248013e7cc26bc949085",
-      "afterSha256": "df83e7a90149b54fc46454710a89f04427403c02f2f1948541047b8950d0d0de",
+      "afterSha256": "f3797c7c7f0af8fdd6d56e92181476949942d62860cc30c4ab1e70f724621368",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1909,7 +1909,7 @@
       "path": "cdn/papas-donuteria/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "5a5ad38992154f464339dc6a2b8e21a034b4492d0c9c1ce75995dfc5bad1112d",
-      "afterSha256": "09cc44dba2eb82ab4a9dde94d6d5915546dd1856ffd5d4f757c820e7369fcb29",
+      "afterSha256": "13edb73b062df86c1f4260300f56c9b3a101ca0f8f9de4aaa92024b1d32b5f28",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -1917,7 +1917,7 @@
       "path": "cdn/papas-freezeria/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "87e7879df7f3f50cdd32f51bd3400eb7d645f2334468fbd3a8e873e7d8d76bcc",
-      "afterSha256": "9351f7145b799630f03e7955884213270967e020d587989f7c0f35c5cafe200a",
+      "afterSha256": "7c418f9c17efe69634c5a3011a9741b37593dcb930d39f3523bc3e36a9acae8c",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1925,7 +1925,7 @@
       "path": "cdn/papas-hotdoggeria/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "bf6f73e2a255aa145bc2b451b46729807b18acafec2749a832be573eb75be93f",
-      "afterSha256": "75aca1d5dea11a90aebc9994bfb059917ef828079cd9725ca2f721b4fcfff134",
+      "afterSha256": "8abde970c718248ebb1f022a86f9ff338b3684109018b3867ffe6ba73769194d",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1933,7 +1933,7 @@
       "path": "cdn/papas-pancakeria/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "41adc19b1f1582063c01b1af8aa96a364fbb3d63a63bf335fd5a8cbd22b11949",
-      "afterSha256": "e5cde0c14a0b3f401bd3b45f728236d6c300e662a7f01616cc5664c0f08a3d67",
+      "afterSha256": "ae24d955607e41d80ba9795541def37227dacd4f998c36cd9abea1c8c5f723c5",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1941,7 +1941,7 @@
       "path": "cdn/papas-pizzeria/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "902be282bfe972ddd1b7e6f6e64e996608c6e63fd6d1999975d633f4521a5801",
-      "afterSha256": "d7ee1a2250a4c50033b82028ff6ae1fb54d50c98302fdeb06dd3f9a4044f6d3d",
+      "afterSha256": "12787400eb3ade34e58e7bc54406e53db41a8d49af9ebb39bff3454e2338251c",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1949,7 +1949,7 @@
       "path": "cdn/papas-scooperia/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "3664a743aee9b0f061560e60008068a92451c52eb4659baf02c50d728ce4f4e8",
-      "afterSha256": "325d4c1decb46eb33b0f563e5e9a7b9cb0a8322bbae4bb9e2addcafc9110d372",
+      "afterSha256": "0d6ab71353d9dd8fe4c75cc049e91e8c4c991607098ce484f4a2838e66cdc326",
       "authoredBase": false,
       "removedRedundantShellImports": 1
     },
@@ -1957,7 +1957,7 @@
       "path": "cdn/papas-sushiria/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "2813f0e20084ab6b8ab5039c09fa64772ef502240fb55e2e87502a1e15eb8e3b",
-      "afterSha256": "4763442250c074a8a43395f4a3c3b502bab295608a83f50e1679e1f1d223cd9e",
+      "afterSha256": "50797fb2255b17fc17ef07798c461dbbda44210a8cba9162f8d041b82874f030",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1965,7 +1965,7 @@
       "path": "cdn/papas-taco-mia/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "5ff4fcca56541080a47b17de2d6764ca187d6dea3db78467fa3049b6fdfcc91f",
-      "afterSha256": "660fd539b6d7aa492c88a727f3e1468aa54427d784d3d4b159851242fde97e46",
+      "afterSha256": "961d96144976a908b3a3f91af8a622c26ba37ae607b3cb84fa66109b61d67f24",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1973,7 +1973,7 @@
       "path": "cdn/papas-wingeria/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "4d87d99a69657ce3f14ac9a26dbd31ce8d3997dc68d6c7a40992653b44753b52",
-      "afterSha256": "08c6aa38e1c8508f66bb9ff9a4a578c009a642d0f0135fcbac4874bc4eda37e1",
+      "afterSha256": "cb48cb9c4e72572959e79a7660050fa365d23bffba0447d32fb2f54f855a3479",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1981,7 +1981,7 @@
       "path": "cdn/papas-pastaria/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "2b5d958e87eb850fcf7bd73f8fcfcfe30435ec38ca24ad92025eebcf64d5d040",
-      "afterSha256": "719e03fe6e5d319fa7309242244277c844425333c85ea11c91d68f6095ee1488",
+      "afterSha256": "862a6366c68fbc66f6f10e97b7cb80a03e16e1c7d2f71916a93c20aa3241f8a9",
       "authoredBase": false,
       "removedRedundantShellImports": 1
     },
@@ -1989,7 +1989,7 @@
       "path": "cdn/papery-planes/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "77dafb5bcf73d3b7177cdb67681eef51c3370e171e05172ba1e956e744257d3b",
-      "afterSha256": "f2eb175888f7bdbf287ee1a3416691d12d038ab8d95312405e3756c9019665e4",
+      "afterSha256": "abd9f6497ac4966bbf558d95d32909edfa4d25549b54d4211b5eb1327daac792",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -1997,7 +1997,7 @@
       "path": "cdn/PC-breakdown/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "38068033ef4d4d94c3228bbf7ad12538831eeebf218b46f769025170aa14aa5c",
-      "afterSha256": "fb6a16c91e7cbec19403a5b05055f46990ba48abd072659a7fddc95ca5c15c36",
+      "afterSha256": "a4fcab62f127ade981b9a774d992baa939ba0956e6929e996b11edb0bc43a44b",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -2005,7 +2005,7 @@
       "path": "cdn/pcraft/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "e0031872385284cce2848a309aea65c0020fb715955c7adbab81f068691221a7",
-      "afterSha256": "687a5b336af5ee091520df23f440f6fa4bb31c044ccb1fc812220444a4fbfcc3",
+      "afterSha256": "6619601e00f564267c871dcd52b0b3d10aa6885f9d8768258531f31c5be5deac",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2013,7 +2013,7 @@
       "path": "cdn/poly-track/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "a31d150284693194063d1eb08a2c70f2e0d6601d504c26e4c7e3d3c937b53ab6",
-      "afterSha256": "e911cd3acd17b9d381092a566cc2aad246c6a68c64e4c09bb35be2aeca748007",
+      "afterSha256": "51baf5532a3670bd55df57e474a778397e60a0c2033eefc72eca19c11b261210",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2021,7 +2021,7 @@
       "path": "cdn/push-your-luck/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "8b13e2a8ad0642528b085aefc7b476cae5743dcadb261a2e596986d3c1708185",
-      "afterSha256": "adc3d1b280d037b1ff684f35d58179059492e08c41c63d0a30290528701d34a9",
+      "afterSha256": "578743f621d5b62495f097f574e774407f80c1284578cab81df76494550c9ed6",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -2029,7 +2029,7 @@
       "path": "cdn/retro-bowl-collage/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "ea70714ff32e996e031c5bb7b7b47cecede3e99b19a2f2268cd1896d35400e18",
-      "afterSha256": "b7dac164467fefa5945dbbdf166745c3450b632e2e6902130e9a1428036e5aa4",
+      "afterSha256": "b47930e5cd77bbadfbe190c094d3aae1d305db747102fe4585336edd9b0b7210",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -2037,7 +2037,7 @@
       "path": "cdn/Riddle-school-1/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "817be91e9cd4e4f841291fdbe4e38dc22c5dce02f38161215588ae1e6c6b00b5",
-      "afterSha256": "6e54aeec4bfa30a26da2a869e8163f2f08c32b38f97b2f9a75da3c1ed4dc77ac",
+      "afterSha256": "584c14eb082e7687e9ee1af994c4f107283cbcb669225e3fb5f48f65609bef02",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2045,7 +2045,7 @@
       "path": "cdn/riddle-school-2/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "1c34c1acff816d1a7ee07a0736b7cfb11d011846f4b94b6bdad706e0b70895d9",
-      "afterSha256": "4d6b62c7011014ad897cf0a3033f086c1f09f9bc2a8173cc3b25f8b768be65b7",
+      "afterSha256": "33bd43edb53a56c62492321c2ef12a049c18b5310d7c8368aecceb86cf7db381",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -2053,7 +2053,7 @@
       "path": "cdn/Riddle-School-3/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "04189f3275aded907b1e7d531add17b6cca1972ca1f094e129c53c82ef2c2500",
-      "afterSha256": "6963a4622b354f1fb06589fe12030245c5f7a04fe5d46d3cc0db1f920823a37f",
+      "afterSha256": "013c4baf86516ccfcf56abbdfbbb65764f322103f42c72b0ea17de9198a3ead7",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2061,7 +2061,7 @@
       "path": "cdn/Riddle-School-4/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "4113df7c970e86d38b8c4c643710d60fe648aa254bdb7fb2c014142e8d4aad0a",
-      "afterSha256": "28a46cb2208070180592605c7cc3955a9df49049cd3e2ec7365230be1a0df350",
+      "afterSha256": "55a6787a052ebfd2a7b74b11bf8c0dbc5dd4a6950ca73beec183dbf2af0b6afc",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2069,7 +2069,7 @@
       "path": "cdn/Riddle-School-5/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7ecedfcf500f96262041e8b76eeda2d9aa5d8427c329d70ac41705d04add83ff",
-      "afterSha256": "39f0737499ed761a6794c3f695cc150b7d89ea100036a81fff988e28a1aa31e1",
+      "afterSha256": "4e3972a68f2b2f15afa6edab80630766f63acb9374b4adc2ef70a58c23d09926",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2077,7 +2077,7 @@
       "path": "cdn/rooftopsnipers/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "2cefb480937997a8c4d627b05e0284be3355baf67570ae02249842e1ecdaefbd",
-      "afterSha256": "0ae5b29653100e7374888e9a21db439ca92f33ed9f8be0d320f24821231342c3",
+      "afterSha256": "4e2fc5110c1fe6b6cb32c93e876ddeaeec57e4df83f9b00a740048fce4b33975",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2085,7 +2085,7 @@
       "path": "cdn/run-2/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "aed7b1a4d71802334425391a6b058fcf35f1d2b46f22e6523f3876964f08cf7e",
-      "afterSha256": "3f0f8ec96cd154ea171f0a5b8d2cccec9732be49164d63349bdc5091ad393b2a",
+      "afterSha256": "1ef60b6d90a4f61d43cc22af4e6b84aff5a2b460397eb079a9e9433de9bb16b5",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -2093,7 +2093,7 @@
       "path": "cdn/snow-rider/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "bec6df7cdc73d1a9a6f17c84a57dd1b0ef3241be6d6c90246f7abf457708b782",
-      "afterSha256": "96aa0ae10512a3c4e7ad29e669e28d4185c3664609cbab0cc44f06dc0e143fa5",
+      "afterSha256": "229bbedb79e6ee819b523ee798f226f1e7160848a32ce17a09784b9911502266",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2101,7 +2101,7 @@
       "path": "cdn/snake-io/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "8788b9c3dfa6dcd0d5ec1657690f2dbb7c4eea96940e1ba9ed60e613af1261a8",
-      "afterSha256": "77cde1f0cc11f514c888849aca1d2d413b5c98a17b8b013c21af29b2cf422a8e",
+      "afterSha256": "4c2be1c2cd5b70d27b8a220ea080a301e74a4c843830e86cafeba8829e37f585",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2109,7 +2109,7 @@
       "path": "cdn/sonic-cd/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "97f53081fa52e9411486584122f49f8fda87ff5e1bcf917ed07b82953581de5b",
-      "afterSha256": "19c228049d45c7f4b0ad1f8ffcaef91fe4848896378b5bddb8ebccf36b5a7f6b",
+      "afterSha256": "ed8fbe1c56e6e0ea5b9008405a99345c337d07f555a7d317ee02281f2d761572",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2117,7 +2117,7 @@
       "path": "cdn/sort-the-court/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6c4ad9d6e1cf67f5585d750e5e056984d682446df044dfe84d80101fba4a058f",
-      "afterSha256": "35e2f90e9c992231504f85cb14207bcaf362d4f40fbbec88b883dcffc3365f8e",
+      "afterSha256": "262fe29439b946e7a630f389b62ee344ef32ee972a9a26e9021b81bfc5aed890",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2125,7 +2125,7 @@
       "path": "cdn/space-company/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "fe9235dab3b1b14605007d4c84a38de8b4624b0e38e904b7be7350880a73555f",
-      "afterSha256": "9c7be1f336cae128df8624e4c3279c85cb934a00b43ae2aec94134059ddc4717",
+      "afterSha256": "181561e60c94d60419ea10d7116459c18fa802d737007752326db5fee56b1b09",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2133,7 +2133,7 @@
       "path": "cdn/stickman-hook/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "c0d15a287eb272d019191b7f4b37287d9a928f97539cdb587b30b959c1a4f1dc",
-      "afterSha256": "8caea829fbfe42f5bf9d377856b0d8da40f10d68cb2c2967f3822a8d6a80dbb2",
+      "afterSha256": "413b7ae43f214ed02a37381d8568d53e844d0d5ca91163437ab3029746edd509",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2141,7 +2141,7 @@
       "path": "cdn/SRP/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "187d44d8eaf6a84445f2ce1ac341c1b8047a54c25dd78d6d5c1c7fbcea1c9b70",
-      "afterSha256": "917932f3346c8a30c33f1ba02f0b4e9904e13467f929069394033f9ff150a179",
+      "afterSha256": "5351524a8c214b2b69da1392d9e4a5e8e65461e7ae0a87cdfb31d1d92813cd42",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -2149,7 +2149,7 @@
       "path": "cdn/SM63/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "1e6f2f22bfa5dc98971a3edefcd8ff95085871c3f489834e2582837f3ac92546",
-      "afterSha256": "062a4dba054efeb1e42141d80aa40ed3adcc03ee9bf9de53381ed7c3c4e5c47c",
+      "afterSha256": "ccfc7ee63aedd892fb3aaa2e4c2cf17539ec0dcb3a35f87038fc5bbcc0c41714",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -2157,7 +2157,7 @@
       "path": "cdn/subway-surfers-beijing/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "611749891b75d7ab78c756b5e686a92ba1048efe947b197db1fe96fa7cc803ba",
-      "afterSha256": "021ebf6509742cdbba74e827e740ce98be9975c951e08fab9e23bb94a4978ede",
+      "afterSha256": "3ad45ec421a8aa7e870bc13d2a30b54bfbba450fd092e1845190f8e8e6e3d1ca",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -2165,7 +2165,7 @@
       "path": "cdn/subwaysurfers-sf/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "34e8caf67f9d70f309f090b7a24c63eea89bc101f003588a1d99af013915ec2d",
-      "afterSha256": "a867751d02ba98cc9a3dc07e65a7d47ccc2fc7feaacba159a03d272dffbed43f",
+      "afterSha256": "2cde4fb79e86fff6596603105cf5f1c436801bbc609143910e73b40e3dc74068",
       "authoredBase": false,
       "removedRedundantShellImports": 18
     },
@@ -2173,7 +2173,7 @@
       "path": "cdn/Terminus.JS/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "e004d061d9ee334207fe64b6ca02e561cabcf0fc9defe5998e5b98f61a210a02",
-      "afterSha256": "fa70e57d1302f2c18c4e71e474488611dd5ab5601fa5e7823aa5a43d7fa219d6",
+      "afterSha256": "ddca5cd388d20164988a85332ca5cb858ed45db56409e27346a75ac09ab17848",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2181,7 +2181,7 @@
       "path": "cdn/territorial-io/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "e556e687e83944247ec0b889853d71f530bb378bd8c4f04590833d337f4dba04",
-      "afterSha256": "14582e111432afdcb3eccd4c421a30aae96c7452b864f3d19a4c808e62830466",
+      "afterSha256": "ad263e75290b298448b9419e0cfccba3107c960e80d26f0b5aa09a58a199502b",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2189,7 +2189,7 @@
       "path": "cdn/tetris/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "08d5729a165b80c284ec716a4f57720a49fdba07e49f47ffc492dcc77ee78318",
-      "afterSha256": "f71cdbae8eff50a34e9c90042cd285649ed7b9c150d22489dedbc5c52714f7d0",
+      "afterSha256": "69b2695103be3226c87d93532cab07a80e8460f6b234ec9b80524ba0cf6a2f8e",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2197,7 +2197,7 @@
       "path": "cdn/there-is-no-game/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b2464bf5c8f51c77dae1b15544ef5f596020e5820fa6f48d4df93d18c411c8c3",
-      "afterSha256": "6970aef8b1449aee7e129dfdfb70bbfc19f9c807d61d107004151b3ec999ac49",
+      "afterSha256": "f875d0ac45b55065617cc20042c0a7dfd89b7aaca7160489698172877f52b9d9",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -2205,7 +2205,7 @@
       "path": "cdn/time-shooter-3/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "4cb3d12b361b2d3661c23b213d717a582dc68ae7cdc5dffa504190416dd7cabd",
-      "afterSha256": "aa70f94da92fad552e96f2f14ecbe8b77d98341d2fc697c013af67066332aa04",
+      "afterSha256": "7c5b250fb450066b79a24132b4f4802232e47a9deaf5f1e8a0880ab887f3a3fd",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -2213,7 +2213,7 @@
       "path": "cdn/tiny-fishing/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "010cd1fc12f8f0ad6656661397b5a0336212459191d3f8ed6cc07ddc85c8d58e",
-      "afterSha256": "838cf48691983b813ae969d29df8d3968d42a7de673246aaa0598f8166a45c7d",
+      "afterSha256": "2e62d8c62f197b49af695294bdaa4c3bc5c177f842204ff67238ec83c96777b7",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2221,7 +2221,7 @@
       "path": "cdn/tomb-of-the-mask/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "5432d77b053f14bb4493d3082bcd76af6a0ecda504a56089a88a747e2f8df20e",
-      "afterSha256": "01399933d9b865e73f7682073fc1888036311f7b9dc35bc36c22aba123b2f0d6",
+      "afterSha256": "0378177e3164bed4046a53a18e9e50a9f996253a046f96408c7e08b3393c6ea7",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2229,7 +2229,7 @@
       "path": "cdn/tunnel-rush-1/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "dad206a700aa16bad2b66a54132c7768eeb59410bda7ce79e2dc6ab2d17cd470",
-      "afterSha256": "e250b3d8987ff8793c4b736af541013cdf5668c837a2c852929537dc7c53c866",
+      "afterSha256": "9b676232cebcafa104fb400896f0e5ea823d784efdd17984466feba6e851e9c5",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2237,7 +2237,7 @@
       "path": "cdn/tunnel-rush-2/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "206c0226de90877dbe0681f09fc7e3663c635812372608aeae8f59376003eeee",
-      "afterSha256": "d5a4c395313fda925a83dd22411e30f9cb9e357e48b61a6f8ea0d9713d5d79b0",
+      "afterSha256": "0cf3c48c3f4d545e548d05734f55b6c82f5200043b23098aa0eed66612a25ab8",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2245,7 +2245,7 @@
       "path": "cdn/unicycle-hero/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "4ed97d95441923abb802f221ddce5ef9e92ad0cfb40f21b1401bca5cf0ca8126",
-      "afterSha256": "c96493ba4b4bd8ab6a1d7145f4ca07c099ce6699f4dbae645fe29abb94e24684",
+      "afterSha256": "b4a4c7299604813f564c59be4250e4c7c1ffda9eeea17b8e227070cc104d7a5e",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2253,7 +2253,7 @@
       "path": "cdn/wheely-1/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "719483c03aa5f1d697a0eaa4f6b98c0fae9356fc164855e16a55f01488d17d6a",
-      "afterSha256": "4f32fd4ee74ba1df85b1a56873a9b96b1fa6245d46a1d12586fd607c0ece388c",
+      "afterSha256": "d5d0c912df770e6d56edece46782a22dba37e0c729b7fe70c1b1b4d4a7bc557f",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2261,7 +2261,7 @@
       "path": "cdn/1v1-lol/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "9a11a18a23a6d18ac28ead660df07fb9c9c14ede06f3186ad65ac2011ceb8646",
-      "afterSha256": "2b3363f3f203c683df7546655e0076a841058688c97a5f488a555abe3afa583e",
+      "afterSha256": "0598d4b33775c95ccdc36ae89ba23e05d2a43a31a4637dda09560e3fba508870",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2269,7 +2269,7 @@
       "path": "cdn/2MinuteFootball/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "7ece79eca4507886d79cb9eca68c966188f6b5bc04c331c3906abb89f5c25f85",
-      "afterSha256": "b3ebb5256fd4d12eab803d5de3afdeb5fcca54cf53bb13b8acf99f2312051e28",
+      "afterSha256": "1cee90abd9fd7f8d80f0354c04692570538f9dc5d9ac93fd56b2d8a9bf9ffb7d",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -2277,7 +2277,7 @@
       "path": "cdn/2048/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "8e67b1f217d60b077949d4bcb035d11dfb944dc3a91330d26ad32f8fd18b3581",
-      "afterSha256": "9e67b7e48bda1afbea7147d43c9907c16153c80c862b1baa2a212334e0a2cf2c",
+      "afterSha256": "4d78e89109cd4461f3fb1fca3b35a5f0c647ef06d3fc6b367b1c5a473fab0f8d",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2285,7 +2285,7 @@
       "path": "cdn/fnae.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "79148c57705a97fec802f01ab050036357f19f5f636b8b0448d7f7712ef5beb5",
-      "afterSha256": "2ca4d1b160a611fabec05750a2a13bd3703067a32f9be1c8db69b1977f1107f7",
+      "afterSha256": "59e7af3ecb529cc30928301102ddb59d6d13389371fc31af174fda3f3a6114c0",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2293,7 +2293,7 @@
       "path": "cdn/Moto X3M 2.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "0455f9fda2517f30dd405ad4d8cc1af3f13f5d61018c07954435ca63bef01969",
-      "afterSha256": "eb820d0bbec95e22097c94b14a3bfaf3eee52cdaead5d1855600fb2fbd012723",
+      "afterSha256": "2452a1cb5da0b2f4b19edc3b1b1fd68f3304f5a4ffecbef89fcd945af40c6dbf",
       "authoredBase": false,
       "removedRedundantShellImports": 10
     },
@@ -2301,7 +2301,7 @@
       "path": "cdn/Fruit Ninja.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "eb4995c5e977ee94489b85352ba5b7aeb7b79712ec24d4fc8c0e6b6354c8aebb",
-      "afterSha256": "c9223e375a49b00eaccbbc362b0c6bb329905a57fb5ec2010fb82a5cbfd80acc",
+      "afterSha256": "ce38993bcac1f220f2c7ced468e3692806c6bfd4c91d89f274ac29ae8c31bd2e",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2309,7 +2309,7 @@
       "path": "cdn/Soundboard.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "8ec099ae5915bc3c511c8f22065d6412775313aba3fa6e80517240a543d49bb6",
-      "afterSha256": "04d2b12ffe867a0bce084b8d640d1132897ea9926d69331582bd1d03a3d9fd9a",
+      "afterSha256": "0ed2e706552ff461714d1d4f515fddfa28316707f29420a7831a3562c2885657",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2317,7 +2317,7 @@
       "path": "cdn/Kindergarten 3.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "549c6570e75772f27f31bcdaaa9a927bf084fa01c2f6a88f148cae36930939d5",
-      "afterSha256": "1dc5b53905bc3716168271e7be08dba6336ff2a4dc73792164950a20f6d3f0a1",
+      "afterSha256": "aff8b5dd1aaae1bf9bc78a5efb3ef410e92ecf8d754ebed3b88d46638802e4fa",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2325,7 +2325,7 @@
       "path": "cdn/Minecraft 1.8.8.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "0cdea1ae42e8b732f4824628430b21293ee74154faa05ad807a1084566eb71f9",
-      "afterSha256": "a6bc18cba4372928486533f7ae20bd38730ce485c499596cba2c9cac063d5c44",
+      "afterSha256": "fb9236c94587263fc963efbf7ac9da3727a14a7cc88a48fe8747e16691f3eb2a",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2333,7 +2333,7 @@
       "path": "cdn/Moto X3M Winter.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "582a3d398f67b67275a1cf7fa516489585718fe0cb879a4736136298d3857b88",
-      "afterSha256": "2499f1bf1dde8a95e7e7c442f1dbf91e4b8df6f8d5c1de1d391f3c5f244ca39b",
+      "afterSha256": "f5679886dc0b1aa509458de4f368f07090763ad3daeebc7516be9cd2c8a51913",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -2341,7 +2341,7 @@
       "path": "cdn/Coreball.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "a97013b0fc49c2e37af93696a39e0532cbbad93ee9b95933b77ac464b6b20cd2",
-      "afterSha256": "e69ffe062ed2d8646e206a0cce7d42093f8faa4fe77c092fad412a29d3393e07",
+      "afterSha256": "f23a5f6aca21945093c096530102e363971dc155daebabd9ef92d22eac6984de",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2349,7 +2349,7 @@
       "path": "cdn/Raft Wars.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "c4d1a38352b57673523eb1b299537b5b1ea23d8967f49c8afec2be5365449dca",
-      "afterSha256": "e92ba8b2ec1e794c1456426c323e7807f4824096089f6662800e414b776cdfa5",
+      "afterSha256": "770c34f7265a2074de4b63a2cc860bf7c48fd42a99a5e865eacc0965a7cae46e",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2357,7 +2357,7 @@
       "path": "cdn/Minecraft Beta 1.7.3.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "ac338e14b8b62159def04eb490e62433ffd9a6975256e909c9519b2c657d970d",
-      "afterSha256": "5e5855fbe0510d91b796dd02ad6196c58e80db5ec88d93fa15f751e7c864542f",
+      "afterSha256": "d7681a3677cc785da8ad77adef5366ec701cc6e66f3e2eb6e1cb48ef360d9cd6",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2365,7 +2365,7 @@
       "path": "cdn/Run 1.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "efb28e762207b6c6ab132a3ae1a0b5e0fa1e98dc579f796bf264c8fc4536a2ca",
-      "afterSha256": "50f4d059e0b41e8ad7378bcf78d2210edcb515346e29c1475dc137ca9725311a",
+      "afterSha256": "c05ffb87c118a467ec1b254e8fc39813daa7e9e9cbdd0ac17af06f22bc1f87b8",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2373,7 +2373,7 @@
       "path": "cdn/Raft Wars 2.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b88e07a41874461e8271c5f6f2b35cf8890b45f6abd8bf9e6666c81801155754",
-      "afterSha256": "2fbf5eb01788f22e7a4c9b5d13804f76351e8f5b9d4f25bd666fc4baa0184b3d",
+      "afterSha256": "089f4653e5c6e301d134a18b3165204a0b22be12e2a666ef42b96ed7435f9eb0",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2381,7 +2381,7 @@
       "path": "cdn/Moto X3M 3.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "6ff337789226a648bdc1158aab57a2d870f04d7d73a3c1034120d2e854ed53ae",
-      "afterSha256": "0f191a68a9af8abad86d6556896b9f661adac0f0c2ef3f50301acb168592c33c",
+      "afterSha256": "e1465b7aaf32037b32214d8e8f17d69cc99ff0d30966b55b1483faa1d14b4b8e",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2389,7 +2389,7 @@
       "path": "cdn/Moto X3M Pool Party.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d4be32348003a3afb7c5ad83b98797e92b9931a9407c7b05f12506251f96e363",
-      "afterSha256": "89a69883f0c5fc87d6994f6528fec4c945e0d700d1e3e31dcee4c100bf62266e",
+      "afterSha256": "008a9bc63bc4c162776f9785d5f27083c7c899dd779408627f5ab8e92eb750ed",
       "authoredBase": true,
       "removedRedundantShellImports": 15
     },
@@ -2397,7 +2397,7 @@
       "path": "cdn/Monster Tracks.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "63b176124ea29b2ac59751bb5e6f0279f52fe2452f72e0ec93c7e04022c8159b",
-      "afterSha256": "125305e6f7eba163ee29e70ff2cd54366dd8a03ba0f11f837492882b253ba060",
+      "afterSha256": "ab53fbf94a3e29936c511f0f3c6cde6a0b9510af189dc2af48324936510aa6e0",
       "authoredBase": false,
       "removedRedundantShellImports": 15
     },
@@ -2405,7 +2405,7 @@
       "path": "cdn/Fork n Sausage.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "55f7bc2134aeaeb7a0051073448dcac9319a03629939cbb32d246bea05dd8463",
-      "afterSha256": "701fd3870aaac9ff65a0cd30808de9438ff7442af17f9cad51151efffa3af38e",
+      "afterSha256": "7fa9f780e8d91b66b7a6f78275810c43f65f091bf3ef710c966c46a24ca978ce",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2413,7 +2413,7 @@
       "path": "cdn/House of Hazards.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "093ae2dab557178ff9d9c441812ed0bbf0621c6a7f1d8f33f6a9adcb955f0a79",
-      "afterSha256": "05b263904105d9221ab41ec291a60227c6ca7e172ae191d00aed32b00ea11ade",
+      "afterSha256": "82eb5ea53a15523f6a5aa7e3b737435e0e1c135d4a346aa3d71f0a3e282d669d",
       "authoredBase": false,
       "removedRedundantShellImports": 12
     },
@@ -2421,7 +2421,7 @@
       "path": "cdn/State.io.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "3aa46276bd26b33f3226852a03fbf67ea98f70be522c602f4e2c8fe5c585023c",
-      "afterSha256": "b517ed4c144dd58182576e73d868f7997c27e69c161c85854580c6e1a0a76d3a",
+      "afterSha256": "3722468d1fc7bb8549e119a3fb11dc5b24f0e2a4b75cdf28276c58259fe3f59c",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2429,7 +2429,7 @@
       "path": "cdn/FIFA 11.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "877bd5732c0d918176f4cb9ef3d2aae994093df1311aa755db68bbae78e22d6b",
-      "afterSha256": "f61d070e7d5ce8a8809f1920f586369d946a77a19a5736dc7e03c2c6221efbca",
+      "afterSha256": "c3ba7bd597bf094c66c85d0112ecd8a1e67d76941471edadef593fdd0f90b366",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2437,7 +2437,7 @@
       "path": "cdn/Minecraft Beta 1.3.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "9ef181ba29c6d8d1fe7732e851f5e250cdb53a81e8fdd704e91c522abf189383",
-      "afterSha256": "6823cf9d77ddcb95356d38a5c7561f4aa2e375ef9a4fc04a9dc52e77bc471c8d",
+      "afterSha256": "11ee5061a8abad3fc53b9998dc1dbd4e2d1950f1af0c1e4d33a8bd94e22498af",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2445,7 +2445,7 @@
       "path": "cdn/Duck Life 8.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "42ae9bea573816eea09bc918f51a9f8ce4fd564617ef16cfcb0c9887c13b30c0",
-      "afterSha256": "a83afa50f50c0cc7e0b39fcf37aa81312c27b27b66759d12a11fb2a46f7f1f42",
+      "afterSha256": "e5030fe5ba3fb65193455a8196495a6c4972aca70453a7009866a1e96fcf293a",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2453,7 +2453,7 @@
       "path": "cdn/Going Balls.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "66f0df984db9e0ebd4eb42a54a3ae5c7b360b723f57b08ff693c3b65dca32706",
-      "afterSha256": "ea52631292f329dd3d3a85b4137765b3eec60c1583299bb4b72df51327e7c59d",
+      "afterSha256": "4e4203f311e4e2e7bc60ca8680f5f8f2c7022cf5720b92ef578bf64b6075bf41",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2461,7 +2461,7 @@
       "path": "cdn/Spiral Roll.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "bc869df7403a4849ee9a8f7edf0c545950198de51cca9714e50abba4364bcdf3",
-      "afterSha256": "89f776c5a09d652a543844268dc51ed03a376cbe07f793d88f4df70401d1f49a",
+      "afterSha256": "6ca088cf99cbdce88ef7254f8e22531c3fb9b8026f46d7772d8fcdc80255ee83",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2469,7 +2469,7 @@
       "path": "cdn/Pou.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "02f8c95b1fbe693533e5389a7c0e60cf86d2c968f46ee4139b048fc577112373",
-      "afterSha256": "1cf7770ffd403562050571baf4b65067c9333249666b315b8a8b8e18876be78f",
+      "afterSha256": "4a7c7608d1195c5ce523d18bcf248639d5ecfc5c74d365ba6382507a1970cf26",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2477,7 +2477,7 @@
       "path": "cdn/Duck Life.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "0ef037ea738f7fc5db82310e97b095e20bf46ac218327ecdaac43f3bacd51ebf",
-      "afterSha256": "8a85d7790bc674becadd14d6e50c30fe0d70d7fa9fd99ead586f4d9d0cd80146",
+      "afterSha256": "b3248dac9c33564498d1514e1b9ad9a3ee49dcb95d24bb1af271f3d7c37b5db9",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2485,7 +2485,7 @@
       "path": "cdn/Duck Life 5.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "1c9359632145e4a23d2b0c388cac9ff831cd99eec99cfbc229dc6f1638b5afa1",
-      "afterSha256": "90c5fdb802e464de98cd200693d64773afe50608ac71166d68847dc8fe9f1aec",
+      "afterSha256": "45a9ecd9feb11672fc6e602db10511d253e7aae9ed06ed11b5134f01d52b2fc5",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2493,7 +2493,7 @@
       "path": "cdn/Magic Tiles 3.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "cde60bcabdc152d7920bd806aa75f8e644a7db9626dcc3204f4ec33ba6c75359",
-      "afterSha256": "c271c08749e61728303afd6d1cba021e02682f2beef3b8603707c75276654e95",
+      "afterSha256": "e7a74aee9f29764c6d1cea956e14937c369bb93b2ad33351264d6b3d77465c41",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2501,7 +2501,7 @@
       "path": "cdn/Minecraft Alpha 1.2.6.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "672cd661b8abae8c5678fc5dd6b1685df494a7f13fd7df59f7e24f98f96a4e51",
-      "afterSha256": "463b6155e341ad20fcf2065bcc13133370324b432e07ec620a919ea8c5c8fec5",
+      "afterSha256": "66d50a0da4bee5e730147fcb37d3232e2e05ab49e222243dbaed7546fbe27f97",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2509,7 +2509,7 @@
       "path": "cdn/Slowroads.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "b2f2ac2b4da76ca69c152df4f2edefaef5c00b5727dfa45f0b610acf97eedfd5",
-      "afterSha256": "1fb3a379d8dcb4afdac5e1217b9632b92c11027d3713809a8e8c48d2879037aa",
+      "afterSha256": "9018251ec9cdd4781ce0d5f689de579e763791c6fd656de4efbac1fd2439c5ad",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2517,7 +2517,7 @@
       "path": "cdn/Minecraft 1.5.2.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "a4b5078630187d2fde855c5a754b3ff7ed7e87ef503c29db23c166bb032bc0db",
-      "afterSha256": "b168c72442fb0a5a723cb7aae7d2defdf21003804eae183d8d54fb24320d4a95",
+      "afterSha256": "b2ec7e5410dbdf3676ccf017a853f36c7f156ebf64aeefd545b7c2e6421ae2a6",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2525,7 +2525,7 @@
       "path": "cdn/Moto X3M Spooky.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "53c46e56357b2c5367814e56e9c875e578690478619ef9396c4fe2db16917f07",
-      "afterSha256": "8a5d7c5db68a1818efb94736809fbbc098a6a2e54b9a1177f885bf7f433cf529",
+      "afterSha256": "4367408c966523268db89b039217831a62a7518148341725b22aa231a369aecb",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2533,7 +2533,7 @@
       "path": "cdn/Rooftop Snipers 2.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "20130d6b0c9134120cd6ae6418806bb4e8bdc008b93deabc93ee0ff9bc2313e2",
-      "afterSha256": "96f855ee1baac702850b7f57e55af99ad05714a529e18b442a4778f5034ff298",
+      "afterSha256": "bafbdd1f93fb879221c3f5b86bf7781a183b587eee80bafcfd5bc4517a5be076",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2541,7 +2541,7 @@
       "path": "cdn/Run 3.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "742c62c6e7db07b526387d1424483f9bf39cdebebf1a978ca45fc9aa57db2fb5",
-      "afterSha256": "df7d03cddfcf93102b76e048df843f4c8422f9f0bfd78069807d737fd146b9a6",
+      "afterSha256": "70c420779ea0c2bcca29b2a36c24e9bb7f3354c8573f05c91cc40264839b3a32",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2549,7 +2549,7 @@
       "path": "cdn/Minecraft 1.21.4.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "14f54ba152be87cc5a269e27088d1cb5da0b7ae5446af5f8456565c38b927413",
-      "afterSha256": "59d23dd8065f9ece142ef214c0bcb9a045ba9b3ac825d27adc289e49f6f34c96",
+      "afterSha256": "a451220669588d351a9ce4aa9c79915821649d5e2d1872c868ab8e4722e30b62",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2557,7 +2557,7 @@
       "path": "cdn/Elastic Man.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "9dd79d0f9cba1b08de31132392fb9dbe4cc6a253c6ce3c6a2b8904b6aca0ca30",
-      "afterSha256": "2be3c063cbc0fa09c549f54b3ed98b50a7bcbfea45478fddfcb371c56c647757",
+      "afterSha256": "5ed15b0a2d84bd754ee35e8eb78b6504b948af991b3250230a9d824d6d899297",
       "authoredBase": true,
       "removedRedundantShellImports": 14
     },
@@ -2565,7 +2565,7 @@
       "path": "cdn/speed-stars.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "2c6264002222dd25038d46fca5a353206e5074fe23874a07ff326fed375b2a54",
-      "afterSha256": "5f3b55e1ec289b6b2e4dbf7aeb7b857be8692d62f9cd7cd9e9d427238880c672",
+      "afterSha256": "d24210b810c9be522cc6dab835198f37cea3adc02d129a1776f7e46825d8abdf",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2573,7 +2573,7 @@
       "path": "cdn/firered.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "d9a657e5f4c9627acdd88404ab9144a21af1b0b87e2815244caef33a012f8eab",
-      "afterSha256": "cee66ca37c33c498bc93ad1847c5d3c51e358357525530e358713a01ea6376f4",
+      "afterSha256": "664b8ead5b251b78fe2a8e0352d524b4c640882609d478af0632c44210c6d30f",
       "authoredBase": false,
       "removedRedundantShellImports": 14
     },
@@ -2581,7 +2581,7 @@
       "path": "cdn/incremancer/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "8e4fa10e1c0eaa4bcd72bf5ff54ed8c75dd624c2a2fdf521839544b094efdd65",
-      "afterSha256": "10d4a2574b85f4725772c44b4d7b7c20ce5ac53924bbfaf895c3d5bdabe95d4d",
+      "afterSha256": "3c9c47cfe8d74115ebb033ac266be5299d9f17d75750b41149764b4a0becae9e",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     },
@@ -2589,7 +2589,7 @@
       "path": "cdn/drive-mad/index.html",
       "oldRevision": "7ae038b588d9532bdd69803ce27ab89fac7d471e",
       "beforeSha256": "e50d750fc5adb3f8ec97bda7e4d7a2f5399502df0adc5a2c89703c04a28e5c08",
-      "afterSha256": "54361e10c1627b1be5af4e6ffc0fafc10f4fa23794a2732a0334fa987b201ac6",
+      "afterSha256": "1e97d88a601c14f74443ce0d24cd1fab853bf4996cbcf0b4d532473aa43fdf74",
       "authoredBase": false,
       "removedRedundantShellImports": 0
     }

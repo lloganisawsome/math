@@ -17,7 +17,7 @@ I fixed some absolute urls (m=aLUfP...) to google's servers, so all of the requi
   var token = channel[1], target = channel[2], active = true, loaded = false;
   var jobs = new Map(), serial = 0, received = 0, failed = 0, lastChange = Date.now(), untrackedFrame = false, failedFiles = [];
   var nodes = new WeakMap(), xhrUrls = new WeakMap(), seenTiming = new Set(), hooked = new WeakSet();
-  function optional(value) { return /(?:google-analytics|googletagmanager|doubleclick|googlesyndication|adservice|playsaurus\.com|facebook\.com|appcacheuninstaller|(?:^|\/)analytics(?:\.|\/)|\/favicon\.|\/(?:savedata|savegame|gamesave)\.ini(?:[?#]|$)|\/Language[^/]*\.txt(?:[?#]|$))/i.test(value); }
+  function optional(value) { return /(?:announcements\.blobfishgames\.com|cloudflareinsights|gameanalytics|google-analytics|googletagmanager|doubleclick|googlesyndication|adservice|playsaurus\.com|facebook\.com|appcacheuninstaller|(?:^|\/)analytics(?:\.|\/)|\/favicon\.|\/(?:savedata|savegame|gamesave)\.ini(?:[?#]|$)|\/Language[^/]*\.txt(?:[?#]|$))/i.test(value); }
   function address(value) { try { return new URL(String(value || ''), document.baseURI).href; } catch (_) { return ''; } }
   function report(status) {
     if (!active && status !== 'ready' && status !== 'unverified') return;
@@ -60,7 +60,7 @@ I fixed some absolute urls (m=aLUfP...) to google's servers, so all of the requi
   }
   document.addEventListener('load',resourceEvent,true);
   document.addEventListener('error',resourceEvent,true);
-  var mutations=new MutationObserver(function(records){records.forEach(function(record){if(record.type==='attributes'){nodes.delete(record.target);watch(record.target);}record.addedNodes.forEach(scan);});});
+  var mutations=new MutationObserver(function(records){records.forEach(function(record){if(record.type==='attributes'){end(nodes.get(record.target),false);nodes.delete(record.target);watch(record.target);}record.addedNodes.forEach(scan);});});
   mutations.observe(document,{childList:true,subtree:true,attributes:true,attributeFilter:['src','href']});
   var observer;
   try {
