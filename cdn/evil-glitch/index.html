@@ -1,4 +1,117 @@
-<head><title>Evil Glitch</title><style>body{background:#000;margin:0;padding:0;}canvas{cursor:none;display:none;}#c{height:100vh;margin:auto;display:block;}#f{font-family:monospace;position:absolute;bottom:10px;left:10px;font-size:21px;color:#993;text-decoration:none;}#f:hover{color:#9aa;}</style></head><body allowfullscreen><div id="d"><canvas id="c"></canvas><canvas id="g" moz-opaque></canvas></div><a href='#' id='f' title='fullscreen'>FullScreen</a><script>(function(){function cb(a){a/=300;return 300*a*a+360}function Ha(a,b){return Math.atan2(b[1]-a[1],b[0]-a[0])}function Ra(a,b){return Math.sqrt(a*a+b*b)}function Q(a){var b;b=k.VERTEX_SHADER;b=k.createShader(b);k.shaderSource(b,"attribute vec2 p;varying vec2 uv;void main(){gl_Position=vec4(p,.0,1.);uv=.5*(p+1.);}");k.compileShader(b);var e=b;b=k.FRAGMENT_SHADER;b=k.createShader(b);k.shaderSource(b,a);k.compileShader(b);a=k.createProgram();k.attachShader(a,e);k.attachShader(a,b);k.linkProgram(a);k.useProgram(a);
+<head><base href="https://rawcdn.githack.com/lloganisawsome/math/14dc2509bce334b93c6c241882653e6225dacd66/cdn/evil-glitch/"><script data-tac-startup="20261022launcher1">/* TAC startup reporting. Embedded into verified game entry documents at publish time. */
+(function () {
+  'use strict';
+  var channel = /^tac-launcher:([a-z0-9-]+):(https?:\/\/[^/]+)$/.exec(window.name || '');
+  if (!channel || window.parent === window || window.__tacStartupProbe) return;
+  window.__tacStartupProbe = true;
+  var token = channel[1], target = channel[2], active = true, loaded = false;
+  var jobs = new Map(), serial = 0, received = 0, failed = 0, lastChange = Date.now(), untrackedFrame = false;
+  var nodes = new WeakMap(), xhrUrls = new WeakMap(), seenTiming = new Set(), hooked = new WeakSet();
+  function optional(value) { return /(?:google-analytics|googletagmanager|doubleclick|googlesyndication|adservice|playsaurus\.com|facebook\.com|appcacheuninstaller|(?:^|\/)analytics(?:\.|\/)|\/favicon\.)/i.test(value); }
+  function address(value) { try { return new URL(String(value || ''), document.baseURI).href; } catch (_) { return ''; } }
+  function report(status) {
+    if (!active && status !== 'ready' && status !== 'unverified') return;
+    window.parent.postMessage({type:'TAC_GAME_STARTUP',token:token,status:status || 'loading',pending:jobs.size,received:received,failed:failed},target);
+  }
+  function begin(value, kind) {
+    var url = address(value);
+    if (!active || !url || /^(data:|blob:|about:)/.test(url) || optional(url)) return 0;
+    var id = ++serial; jobs.set(id,{url:url,kind:kind}); lastChange=Date.now(); return id;
+  }
+  function end(id, error) {
+    if (!active || !jobs.has(id)) return;
+    jobs.delete(id); if(error)failed++;else received++;lastChange=Date.now();report();
+  }
+  function endUrl(url) { for(var pair of jobs) if(pair[1].url === url && pair[1].kind === 'fetch') end(pair[0],false); }
+  function watch(node) {
+    if (!active || !node || node.nodeType !== 1 || nodes.has(node)) return;
+    var tag=node.tagName, value='';
+    if (tag === 'SCRIPT' || tag === 'IMG' || tag === 'IFRAME') value=node.src;
+    if (tag === 'LINK' && /^(stylesheet|preload|modulepreload)$/.test(node.rel)) value=node.href;
+    if (!value || optional(value) || (tag === 'IMG' && node.loading === 'lazy')) return;
+    if (tag === 'IFRAME') { untrackedFrame=true; return; }
+    if (tag === 'IMG' && node.complete) { if(node.naturalWidth)received++; return; }
+    if (tag === 'SCRIPT' && (node.readyState === 'complete' || node.readyState === 'loaded')) return;
+    if (tag === 'LINK' && node.rel === 'stylesheet' && node.sheet) return;
+    if (performance.getEntriesByName(value).some(function(e){return e.responseEnd > 0;})) return;
+    nodes.set(node,begin(value,'element'));
+  }
+  function scan(root) {
+    watch(root);
+    if(root.querySelectorAll)root.querySelectorAll('script[src],img[src],link[href],iframe').forEach(watch);
+  }
+  function resourceEvent(event) {
+    var node=event.target;
+    if (!node || !node.tagName) return;
+    if (!nodes.has(node)) watch(node);
+    end(nodes.get(node),event.type === 'error');
+    hookUnity();
+  }
+  document.addEventListener('load',resourceEvent,true);
+  document.addEventListener('error',resourceEvent,true);
+  var mutations=new MutationObserver(function(records){records.forEach(function(record){if(record.type==='attributes'){nodes.delete(record.target);watch(record.target);}record.addedNodes.forEach(scan);});});
+  mutations.observe(document,{childList:true,subtree:true,attributes:true,attributeFilter:['src','href']});
+  var observer;
+  try {
+    observer=new PerformanceObserver(function(list){list.getEntries().forEach(function(entry){
+      var key=entry.name+'|'+entry.startTime;
+      if(seenTiming.has(key) || optional(entry.name))return;seenTiming.add(key);
+      endUrl(entry.name);
+    });});observer.observe({type:'resource',buffered:true});
+  } catch (_) {}
+  var nativeFetch=window.fetch;
+  if(nativeFetch)window.fetch=function(input,options){
+    var id=begin(input && input.url || input,'fetch'),promise;
+    try { promise=nativeFetch.apply(this,arguments); } catch(error){end(id,true);throw error;}
+    return promise.then(function(response){
+      if(!response.ok && response.type !== 'opaque'){end(id,true);return response;}
+      ['arrayBuffer','blob','text','json','formData'].forEach(function(method){
+        var original=response[method];if(!original)return;
+        try {response[method]=function(){return original.apply(this,arguments).then(function(value){end(id,false);return value;},function(error){end(id,error.name!=='AbortError');throw error;});};}catch(_){}
+      });
+      return response;
+    },function(error){end(id,error.name!=='AbortError');throw error;});
+  };
+  if(window.XMLHttpRequest){
+    var open=XMLHttpRequest.prototype.open,send=XMLHttpRequest.prototype.send;
+    XMLHttpRequest.prototype.open=function(method,url){xhrUrls.set(this,url);return open.apply(this,arguments);};
+    XMLHttpRequest.prototype.send=function(){
+      var xhr=this,id=begin(xhrUrls.get(xhr),'xhr'),aborted=false;
+      xhr.addEventListener('abort',function(){aborted=true;},{once:true});
+      xhr.addEventListener('loadend',function(){end(id,!aborted && (xhr.status===0 || xhr.status>=400));},{once:true});
+      try{return send.apply(this,arguments);}catch(error){end(id,true);throw error;}
+    };
+  }
+  function hookUnity(){
+    var fn=window.createUnityInstance;
+    if(typeof fn !== 'function' || hooked.has(fn))return;
+    var wrapped=function(){
+      var id=begin(document.URL+'#unity-engine','engine'),result;
+      try{result=fn.apply(this,arguments);}catch(error){end(id,true);throw error;}
+      return Promise.resolve(result).then(function(instance){end(id,false);return instance;},function(error){end(id,true);throw error;});
+    };
+    Object.assign(wrapped,fn);hooked.add(wrapped);window.createUnityInstance=wrapped;
+  }
+  function documentReady(){
+    scan(document);loaded=true;lastChange=Date.now();hookUnity();
+    if(document.fonts){var id=begin(document.URL+'#fonts','fonts');document.fonts.ready.then(function(){end(id,false);},function(){end(id,true);});}
+    report();
+  }
+  window.addEventListener('load',documentReady,{once:true});
+  if(document.readyState==='complete')documentReady();
+  var interval=setInterval(function(){
+    if(!active)return;
+    hookUnity();
+    var module=window.Module;
+    var engineBusy=module && (module.runDependencies>0 || (module.calledRun===false));
+    if(loaded && !jobs.size && !engineBusy && !failed && Date.now()-lastChange>=1800){
+      report(untrackedFrame ? 'unverified' : 'ready');active=false;clearInterval(interval);mutations.disconnect();if(observer)observer.disconnect();
+    }else report(failed ? 'error' : 'loading');
+  },250);
+  window.addEventListener('pagehide',function(){active=false;clearInterval(interval);mutations.disconnect();if(observer)observer.disconnect();},{once:true});
+  report('connected');
+})();
+</script><title>Evil Glitch</title><style>body{background:#000;margin:0;padding:0;}canvas{cursor:none;display:none;}#c{height:100vh;margin:auto;display:block;}#f{font-family:monospace;position:absolute;bottom:10px;left:10px;font-size:21px;color:#993;text-decoration:none;}#f:hover{color:#9aa;}</style></head><body allowfullscreen><div id="d"><canvas id="c"></canvas><canvas id="g" moz-opaque></canvas></div><a href='#' id='f' title='fullscreen'>FullScreen</a><script>(function(){function cb(a){a/=300;return 300*a*a+360}function Ha(a,b){return Math.atan2(b[1]-a[1],b[0]-a[0])}function Ra(a,b){return Math.sqrt(a*a+b*b)}function Q(a){var b;b=k.VERTEX_SHADER;b=k.createShader(b);k.shaderSource(b,"attribute vec2 p;varying vec2 uv;void main(){gl_Position=vec4(p,.0,1.);uv=.5*(p+1.);}");k.compileShader(b);var e=b;b=k.FRAGMENT_SHADER;b=k.createShader(b);k.shaderSource(b,a);k.compileShader(b);a=k.createProgram();k.attachShader(a,e);k.attachShader(a,b);k.linkProgram(a);k.useProgram(a);
     e=k.getAttribLocation(a,"p");k.enableVertexAttribArray(e);k.vertexAttribPointer(e,2,k.FLOAT,!1,0,0);return[a]}function ha(a,b){return a[b]||(a[b]=k.getUniformLocation(a[0],b))}function db(){var a=k.createTexture();k.bindTexture(k.TEXTURE_2D,a);k.texParameteri(k.TEXTURE_2D,k.TEXTURE_MIN_FILTER,k.LINEAR);k.texParameteri(k.TEXTURE_2D,k.TEXTURE_MAG_FILTER,k.LINEAR);k.texParameteri(k.TEXTURE_2D,k.TEXTURE_WRAP_S,k.CLAMP_TO_EDGE);k.texParameteri(k.TEXTURE_2D,k.TEXTURE_WRAP_T,k.CLAMP_TO_EDGE);return a}function Jb(a){k.activeTexture(k.TEXTURE0+
     0);k.bindTexture(k.TEXTURE_2D,a);return 0}function eb(){var a=k.createFramebuffer();k.bindFramebuffer(k.FRAMEBUFFER,a);var b=db();k.texImage2D(k.TEXTURE_2D,0,k.RGBA,R,H,0,k.RGBA,k.UNSIGNED_BYTE,null);k.framebufferTexture2D(k.FRAMEBUFFER,k.COLOR_ATTACHMENT0,k.TEXTURE_2D,b,0);return[a,b]}function Kb(){this.T=function(a){for(var b=0;24>b;b++)this[String.fromCharCode(97+b)]=a[b]||0;.01>this.c&&(this.c=.01);a=this.b+this.c+this.e;.18>a&&(a=.18/a,this.b*=a,this.c*=a,this.e*=a)}}function Lb(a,b,e){Sa.G.T(a);
     var h=Sa.V();a=new Uint8Array(4*((h+1)/2|0)+44);var h=2*Sa.U(new Uint16Array(a.buffer,44),h),m=new Uint32Array(a.buffer,0,44);m[0]=1179011410;m[1]=h+36;m[2]=1163280727;m[3]=544501094;m[4]=16;m[5]=65537;m[6]=44100;m[7]=88200;m[8]=1048578;m[9]=1635017060;m[10]=h;h+=44;for(m=0;m<h;m+=3);b&&b.decodeAudioData(a.buffer,e)}function la(a){a=a.split(Mb);this.frequency=la.M(a[0])||0;this.duration=la.L(a[1])||0}function A(a,b,e){this.C=a||new Ia;this.J();this.D=b||120;this.loop=!0;this.F=this.I=0;this.B=[];
