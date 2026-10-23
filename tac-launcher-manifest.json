@@ -45,9 +45,9 @@
       "path": "cdn/ragdoll-archers/index.html",
       "oldRevision": "14dc2509bce334b93c6c241882653e6225dacd66",
       "beforeSha256": "f6f002c8c495a78d91bb0c3bb91764ab28b6803b57e753e72e47731cbbba0511",
-      "afterSha256": "7aad581720d5cf4586be21850b04bdb5e8f4f0d5cc8c64aa23395176afdc14df",
+      "afterSha256": "038be2ad2bcaa6877c9ce5ccaeb35a5e842523e104a3c68ec11128e2ecedfc5a",
       "authoredBase": false,
-      "removedRedundantShellImports": 14
+      "removedRedundantShellImports": 15
     },
     {
       "path": "cdn/Candy Crush.html",
