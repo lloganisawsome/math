@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <link rel="stylesheet" href="rightclick.css">
+    <link rel="stylesheet" href="custom-cursor.css">
+  <link href="rightclick.css" rel="stylesheet"/>
+  <link href="custom-cursor.css" rel="stylesheet"/>
+  <title>
+   Flash Game
+  </title>
+  <style>
+   body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background: black;
+        }
+        ruffle-player {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+  </style>
+  <script src="app-presence.js">
+  </script>
+ </head>
+ <body>
+  <!-- Load Ruffle from CDN -->
+  <script src="https://unpkg.com/@ruffle-rs/ruffle">
+  </script>
+  <!-- Ruffle will automatically detect and replace this - NO ORANGE BUTTON -->
+  <embed height="100%" src="https://cdn.jsdelivr.net/gh/CBGamesdev/chilibowlflash@main/dadnme.swf" style="width:100%; height:100%;" width="100%"/>
+  <script src="custom-cursor.js">
+  </script>
+  <script src="rightclick.js">
+  </script>
+  <script src="panic-key.js">
+  </script>
+  <script src="idle-dvd.js">
+  </script>
+  
+ 
+
+    <script src="custom-cursor.js"></script>
+    <script src="rightclick.js"></script>
+    <script src="panic-key.js"></script>
+    <script src="idle-dvd.js"></script>
+<script type="module" src="online.js"></script>
+</body>
+</html>
