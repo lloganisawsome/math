@@ -6,13 +6,13 @@
   if (!channel || window.parent === window || window.__tacStartupProbe) return;
   window.__tacStartupProbe = true;
   var token = channel[1], target = channel[2], active = true, loaded = false;
-  var jobs = new Map(), serial = 0, received = 0, failed = 0, lastChange = Date.now(), untrackedFrame = false;
+  var jobs = new Map(), serial = 0, received = 0, failed = 0, lastChange = Date.now(), untrackedFrame = false, failedFiles = [];
   var nodes = new WeakMap(), xhrUrls = new WeakMap(), seenTiming = new Set(), hooked = new WeakSet();
-  function optional(value) { return /(?:google-analytics|googletagmanager|doubleclick|googlesyndication|adservice|playsaurus\.com|facebook\.com|appcacheuninstaller|(?:^|\/)analytics(?:\.|\/)|\/favicon\.)/i.test(value); }
+  function optional(value) { return /(?:google-analytics|googletagmanager|doubleclick|googlesyndication|adservice|playsaurus\.com|facebook\.com|appcacheuninstaller|(?:^|\/)analytics(?:\.|\/)|\/favicon\.|\/(?:savedata|savegame|gamesave)\.ini(?:[?#]|$)|\/Language[^/]*\.txt(?:[?#]|$))/i.test(value); }
   function address(value) { try { return new URL(String(value || ''), document.baseURI).href; } catch (_) { return ''; } }
   function report(status) {
     if (!active && status !== 'ready' && status !== 'unverified') return;
-    window.parent.postMessage({type:'TAC_GAME_STARTUP',token:token,status:status || 'loading',pending:jobs.size,received:received,failed:failed},target);
+    window.parent.postMessage({type:'TAC_GAME_STARTUP',token:token,status:status || 'loading',pending:jobs.size,received:received,failed:failed,failedFiles:failedFiles.slice(-3)},target);
   }
   function begin(value, kind) {
     var url = address(value);
@@ -21,7 +21,7 @@
   }
   function end(id, error) {
     if (!active || !jobs.has(id)) return;
-    jobs.delete(id); if(error)failed++;else received++;lastChange=Date.now();report();
+    var job=jobs.get(id);jobs.delete(id); if(error){failed++;try{var failedUrl=new URL(job.url);failedFiles.push(job.kind+': '+failedUrl.origin+failedUrl.pathname);}catch(_){}}else received++;lastChange=Date.now();report();
   }
   function endUrl(url) { for(var pair of jobs) if(pair[1].url === url && pair[1].kind === 'fetch') end(pair[0],false); }
   function watch(node) {
@@ -29,6 +29,7 @@
     var tag=node.tagName, value='';
     if (tag === 'SCRIPT' || tag === 'IMG' || tag === 'IFRAME') value=node.src;
     if (tag === 'LINK' && /^(stylesheet|preload|modulepreload)$/.test(node.rel)) value=node.href;
+    if (node.closest && node.closest('[id^=sidebarad],.sidebar-frame')) return;
     if (!value || optional(value) || (tag === 'IMG' && node.loading === 'lazy')) return;
     if (tag === 'IFRAME') { untrackedFrame=true; return; }
     if (tag === 'IMG' && node.complete) { if(node.naturalWidth)received++; return; }
@@ -83,7 +84,14 @@
       try{return send.apply(this,arguments);}catch(error){end(id,true);throw error;}
     };
   }
+  function hookPromiseMethod(target,key){
+    var original=target[key];if(typeof original!=='function'||hooked.has(original))return;
+    var wrapped=function(){var id=begin(document.URL+'#'+key,'engine'),result;try{result=original.apply(this,arguments);}catch(error){end(id,true);throw error;}
+      return Promise.resolve(result).then(function(value){end(id,false);return value;},function(error){end(id,true);throw error;});};
+    hooked.add(wrapped);target[key]=wrapped;
+  }
   function hookUnity(){
+    if(window.Engine && window.Engine.prototype)hookPromiseMethod(window.Engine.prototype,'startGame');
     var fn=window.createUnityInstance;
     if(typeof fn !== 'function' || hooked.has(fn))return;
     var wrapped=function(){
@@ -104,7 +112,7 @@
     if(!active)return;
     hookUnity();
     var module=window.Module;
-    var engineBusy=module && (module.runDependencies>0 || (module.calledRun===false));
+    var engineBusy=module && (module.runDependencies>0 || module.remainingDependencies>0 || (module.calledRun===false));
     if(loaded && !jobs.size && !engineBusy && !failed && Date.now()-lastChange>=1800){
       report(untrackedFrame ? 'unverified' : 'ready');active=false;clearInterval(interval);mutations.disconnect();if(observer)observer.disconnect();
     }else report(failed ? 'error' : 'loading');
@@ -113,20 +121,18 @@
   report('connected');
 })();
 </script>
-    <link rel="stylesheet" href="rightclick.css">
-    <link rel="stylesheet" href="custom-cursor.css">
-  <link href="rightclick.css" rel="stylesheet"/>
-  <link href="custom-cursor.css" rel="stylesheet"/>
+    
+    
+  
+  
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
   <title>
    Bloons TD 3
   </title>
-  <script src="app-presence.js">
-  </script>
+  
  </head>
  <body>
-  <script src="/js/main.js">
-  </script>
+  
   <div height="100%" id="ruffle" width="100%">
   </div>
   <script src="https://ruffle-bay.vercel.app/ruffle.js">
@@ -144,21 +150,17 @@
         player.load("BTD-3.swf");
       });
   </script>
-  <script src="custom-cursor.js">
-  </script>
-  <script src="rightclick.js">
-  </script>
-  <script src="panic-key.js">
-  </script>
-  <script src="idle-dvd.js">
-  </script>
+  
+  
+  
+  
   
  
 
-    <script src="custom-cursor.js"></script>
-    <script src="rightclick.js"></script>
-    <script src="panic-key.js"></script>
-    <script src="idle-dvd.js"></script>
-<script type="module" src="online.js"></script>
+    
+    
+    
+    
+
 </body>
 </html>
