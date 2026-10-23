@@ -1655,22 +1655,6 @@
     "genre": "Casual",
     "thumbnail": "thumbnails/evil-glitch.jpg"
   },
-  "-OmGG8TJpbeOzYC9_Wxn": {
-    "iframe": "cdn/FNAF-2/index.html",
-    "logo": "thumbnails/five-nights-at-freddys-2.jpg",
-    "title": "Five Nights at Freddys 2",
-    "category": "Horror",
-    "genre": "Horror",
-    "thumbnail": "thumbnails/five-nights-at-freddys-2.jpg"
-  },
-  "-OmGG8TJpbeOzYC9_Wxo": {
-    "iframe": "cdn/FNAF-3/index.html",
-    "logo": "thumbnails/five-nights-at-freddys-3.jpg",
-    "title": "Five Nights at Freddys 3",
-    "category": "Horror",
-    "genre": "Horror",
-    "thumbnail": "thumbnails/five-nights-at-freddys-3.jpg"
-  },
   "-OmGG8TJpbeOzYC9_Wxp": {
     "iframe": "cdn/flappy-birb/index.html",
     "logo": "thumbnails/flappy-bird.jpg",
@@ -3391,38 +3375,6 @@
     "genre": "Sports",
     "thumbnail": "thumbnails/f-i-f-astreet2.jpg"
   },
-  "-OoaEvtu-3YSnxK8UV1v": {
-    "iframe": "https://raw.githubusercontent.com/bubbls/ugs-singlefile/refs/heads/main/UGS-Files/clFNAF.html",
-    "logo": "thumbnails/f-n-a-f.jpg",
-    "title": "F N A F",
-    "category": "Horror",
-    "genre": "Horror",
-    "thumbnail": "thumbnails/f-n-a-f.jpg"
-  },
-  "-OoaEvtu-3YSnxK8UV1w": {
-    "iframe": "https://raw.githubusercontent.com/bubbls/ugs-singlefile/refs/heads/main/UGS-Files/clFNAF2.html",
-    "logo": "thumbnails/f-n-a-f2.jpg",
-    "title": "F N A F2",
-    "category": "Casual",
-    "genre": "Casual",
-    "thumbnail": "thumbnails/f-n-a-f2.jpg"
-  },
-  "-OoaEvtu-3YSnxK8UV1x": {
-    "iframe": "https://raw.githubusercontent.com/bubbls/ugs-singlefile/refs/heads/main/UGS-Files/clFNAF3.html",
-    "logo": "thumbnails/f-n-a-f3.jpg",
-    "title": "F N A F3",
-    "category": "Casual",
-    "genre": "Casual",
-    "thumbnail": "thumbnails/f-n-a-f3.jpg"
-  },
-  "-OoaEvtu-3YSnxK8UV1y": {
-    "iframe": "https://raw.githubusercontent.com/bubbls/ugs-singlefile/refs/heads/main/UGS-Files/clFNAF4.html",
-    "logo": "thumbnails/f-n-a-f4.jpg",
-    "title": "F N A F4",
-    "category": "Casual",
-    "genre": "Casual",
-    "thumbnail": "thumbnails/f-n-a-f4.jpg"
-  },
   "-OobgAic4biCjRLqcbRx": {
     "iframe": "https://raw.githubusercontent.com/bubbls/ugs-singlefile/ca7fa51702726bf787d2a4da8cb42c20a0330a49/UGS-Files/clamongus.html",
     "logo": "thumbnails/among-us.jpg",
@@ -3454,5 +3406,13 @@
     "category": "Incremental",
     "genre": "Incremental",
     "thumbnail": "thumbnails/incremancer.png"
+  },
+  "drive-mad": {
+    "title": "Drive Mad",
+    "iframe": "cdn/drive-mad/index.html",
+    "logo": "https://raw.githubusercontent.com/lloganisawsome/math/main/cdn/drive-mad/logo.jpeg",
+    "category": "Racing",
+    "genre": "Racing",
+    "description": "Drive across tricky obstacle courses without flipping your truck."
   }
 }
