@@ -3414,5 +3414,23 @@
     "category": "Racing",
     "genre": "Racing",
     "description": "Drive across tricky obstacle courses without flipping your truck."
+  },
+  "gladihoppers": {
+    "title": "Gladihoppers",
+    "iframe": "cdn/gladihoppers.html",
+    "logo": "logos/gladihoppers-logo.jpeg",
+    "thumbnail": "logos/gladihoppers-logo.jpeg",
+    "category": "Action",
+    "genre": "Action",
+    "description": "Enter fast, physics-based gladiator battles in Gladihoppers."
+  },
+  "60-seconds": {
+    "title": "60 Seconds!",
+    "iframe": "cdn/60seconds.html",
+    "logo": "logos/60seconds.png",
+    "thumbnail": "logos/60seconds.png",
+    "category": "Adventure",
+    "genre": "Adventure",
+    "description": "Make quick choices and survive in 60 Seconds!"
   }
 }
