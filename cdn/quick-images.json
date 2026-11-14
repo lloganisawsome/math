@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-14",
+  "images": [
+    {
+      "id": "gav-5712",
+      "name": "GAV 5712",
+      "file": "cdn/quick-images/gav-5712.png",
+      "alt": "Friends taking a selfie",
+      "tags": ["friends", "selfie"],
+      "enabled": true
+    },
+    {
+      "id": "dog-4434",
+      "name": "Good dog",
+      "file": "cdn/quick-images/dog-4434.jpeg",
+      "alt": "A chocolate dog resting by a window",
+      "tags": ["dog", "pet"],
+      "enabled": true
+    }
+  ]
+}
